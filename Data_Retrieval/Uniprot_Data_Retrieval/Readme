@@ -1,0 +1,21 @@
+This project focuses on retrieving protein sequence and annotation data from the UniProt database. Five protein entries were selected, and for each entry, the following files were downloaded:
+
+UniProt Text Format (.txt)
+FASTA Sequence File (.fasta)
+XML Format (.xml)
+
+A brief summary containing protein information, organism details, UniProt accession IDs, protein functions, and cellular locations is also included.
+
+Objectives
+Learn how to retrieve biological information from UniProt.
+Understand protein sequence and functional annotation data.
+Work with different biological file formats.
+Explore protein functions, organisms, and cellular localization.
+Organize bioinformatics datasets for analysis and documentation.
+Data Source
+
+All protein entries were retrieved from the UniProt Knowledgebase (UniProtKB).
+
+Website:
+
+https://www.uniprot.org/
