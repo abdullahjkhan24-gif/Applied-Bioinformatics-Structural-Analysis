@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2005-10-25" modified="2026-06-10" version="149" xmlns="http://uniprot.org/uniprot">
+  <accession>Q9QZ76</accession>
+  <name>MYG_RAT</name>
+  <protein>
+    <recommendedName>
+      <fullName evidence="8">Myoglobin</fullName>
+    </recommendedName>
+    <alternativeName>
+      <fullName evidence="1">Nitrite reductase MB</fullName>
+      <ecNumber evidence="1">1.7.-.-</ecNumber>
+    </alternativeName>
+    <alternativeName>
+      <fullName evidence="1">Pseudoperoxidase MB</fullName>
+      <ecNumber evidence="1">1.11.1.-</ecNumber>
+    </alternativeName>
+  </protein>
+  <gene>
+    <name evidence="9" type="primary">Mb</name>
+  </gene>
+  <organism>
+    <name type="scientific">Rattus norvegicus</name>
+    <name type="common">Rat</name>
+    <dbReference type="NCBI Taxonomy" id="10116"/>
+    <lineage>
+      <taxon>Eukaryota</taxon>
+      <taxon>Metazoa</taxon>
+      <taxon>Chordata</taxon>
+      <taxon>Craniata</taxon>
+      <taxon>Vertebrata</taxon>
+      <taxon>Euteleostomi</taxon>
+      <taxon>Mammalia</taxon>
+      <taxon>Eutheria</taxon>
+      <taxon>Euarchontoglires</taxon>
+      <taxon>Glires</taxon>
+      <taxon>Rodentia</taxon>
+      <taxon>Myomorpha</taxon>
+      <taxon>Muroidea</taxon>
+      <taxon>Muridae</taxon>
+      <taxon>Murinae</taxon>
+      <taxon>Rattus</taxon>
+    </lineage>
+  </organism>
+  <reference key="1">
+    <citation type="submission" date="1999-10" db="EMBL/GenBank/DDBJ databases">
+      <authorList>
+        <person name="Santos R.A."/>
+        <person name="Giannocco G."/>
+        <person name="Poyares L.L."/>
+        <person name="Nunes M.T."/>
+      </authorList>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+    <source>
+      <strain>Wistar</strain>
+    </source>
+  </reference>
+  <reference key="2">
+    <citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+      <title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+      <authorList>
+        <consortium name="The MGC Project Team"/>
+      </authorList>
+      <dbReference type="PubMed" id="15489334"/>
+      <dbReference type="DOI" id="10.1101/gr.2596504"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]</scope>
+    <source>
+      <tissue>Heart</tissue>
+    </source>
+  </reference>
+  <reference key="3">
+    <citation type="submission" date="2006-11" db="UniProtKB">
+      <authorList>
+        <person name="Lubec G."/>
+        <person name="Afjehi-Sadat L."/>
+      </authorList>
+    </citation>
+    <scope>PROTEIN SEQUENCE OF 65-78</scope>
+    <scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+    <source>
+      <strain>Sprague-Dawley</strain>
+      <tissue>Spinal cord</tissue>
+    </source>
+  </reference>
+  <reference key="4">
+    <citation type="journal article" date="1987" name="Proc. Natl. Acad. Sci. U.S.A." volume="84" first="7503" last="7507">
+      <title>Myoglobin-mediated oxygen delivery to mitochondria of isolated cardiac myocytes.</title>
+      <authorList>
+        <person name="Wittenberg B.A."/>
+        <person name="Wittenberg J.B."/>
+      </authorList>
+      <dbReference type="PubMed" id="3118370"/>
+      <dbReference type="DOI" id="10.1073/pnas.84.21.7503"/>
+    </citation>
+    <scope>FUNCTION</scope>
+  </reference>
+  <reference key="5">
+    <citation type="journal article" date="2012" name="Nat. Commun." volume="3" first="876" last="876">
+      <title>Quantitative maps of protein phosphorylation sites across 14 different rat organs and tissues.</title>
+      <authorList>
+        <person name="Lundby A."/>
+        <person name="Secher A."/>
+        <person name="Lage K."/>
+        <person name="Nordsborg N.B."/>
+        <person name="Dmytriyev A."/>
+        <person name="Lundby C."/>
+        <person name="Olsen J.V."/>
+      </authorList>
+      <dbReference type="PubMed" id="22673903"/>
+      <dbReference type="DOI" id="10.1038/ncomms1871"/>
+    </citation>
+    <scope>PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-4; SER-32; SER-121 AND SER-133</scope>
+    <scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+  </reference>
+  <comment type="function">
+    <text evidence="1 7">Monomeric heme protein which primary function is to store oxygen and facilitate its diffusion within muscle tissues. Reversibly binds oxygen through a pentacoordinated heme iron and enables its timely and efficient release as needed during periods of heightened demand (PubMed:3118370). Depending on the oxidative conditions of tissues and cells, and in addition to its ability to bind oxygen, it also has a nitrite reductase activity whereby it regulates the production of bioactive nitric oxide. Under stress conditions, like hypoxia and anoxia, it also protects cells against reactive oxygen species thanks to its pseudoperoxidase activity (By similarity).</text>
+  </comment>
+  <comment type="catalytic activity">
+    <reaction evidence="1">
+      <text>Fe(III)-heme b-[protein] + nitric oxide + H2O = Fe(II)-heme b-[protein] + nitrite + 2 H(+)</text>
+      <dbReference type="Rhea" id="RHEA:77711"/>
+      <dbReference type="Rhea" id="RHEA-COMP:18975"/>
+      <dbReference type="Rhea" id="RHEA-COMP:18976"/>
+      <dbReference type="ChEBI" id="CHEBI:15377"/>
+      <dbReference type="ChEBI" id="CHEBI:15378"/>
+      <dbReference type="ChEBI" id="CHEBI:16301"/>
+      <dbReference type="ChEBI" id="CHEBI:16480"/>
+      <dbReference type="ChEBI" id="CHEBI:55376"/>
+      <dbReference type="ChEBI" id="CHEBI:60344"/>
+    </reaction>
+    <physiologicalReaction direction="right-to-left" evidence="1">
+      <dbReference type="Rhea" id="RHEA:77713"/>
+    </physiologicalReaction>
+  </comment>
+  <comment type="catalytic activity">
+    <reaction evidence="1">
+      <text>H2O2 + AH2 = A + 2 H2O</text>
+      <dbReference type="Rhea" id="RHEA:30275"/>
+      <dbReference type="ChEBI" id="CHEBI:13193"/>
+      <dbReference type="ChEBI" id="CHEBI:15377"/>
+      <dbReference type="ChEBI" id="CHEBI:16240"/>
+      <dbReference type="ChEBI" id="CHEBI:17499"/>
+    </reaction>
+  </comment>
+  <comment type="subunit">
+    <text evidence="2">Monomeric.</text>
+  </comment>
+  <comment type="subcellular location">
+    <subcellularLocation>
+      <location evidence="1">Cytoplasm</location>
+      <location evidence="1">Sarcoplasm</location>
+    </subcellularLocation>
+  </comment>
+  <comment type="similarity">
+    <text evidence="6">Belongs to the globin family.</text>
+  </comment>
+  <dbReference type="EC" id="1.7.-.-" evidence="1"/>
+  <dbReference type="EC" id="1.11.1.-" evidence="1"/>
+  <dbReference type="EMBL" id="AF197916">
+    <property type="protein sequence ID" value="AAF05848.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="BC070511">
+    <property type="protein sequence ID" value="AAH70511.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_067599.1">
+    <property type="nucleotide sequence ID" value="NM_021588.2"/>
+  </dbReference>
+  <dbReference type="AlphaFoldDB" id="Q9QZ76"/>
+  <dbReference type="SMR" id="Q9QZ76"/>
+  <dbReference type="BioGRID" id="248730">
+    <property type="interactions" value="3"/>
+  </dbReference>
+  <dbReference type="FunCoup" id="Q9QZ76">
+    <property type="interactions" value="81"/>
+  </dbReference>
+  <dbReference type="IntAct" id="Q9QZ76">
+    <property type="interactions" value="1"/>
+  </dbReference>
+  <dbReference type="MINT" id="Q9QZ76"/>
+  <dbReference type="STRING" id="10116.ENSRNOP00000006184"/>
+  <dbReference type="GlyGen" id="Q9QZ76">
+    <property type="glycosylation" value="1 site, 1 O-linked glycan (1 site)"/>
+  </dbReference>
+  <dbReference type="iPTMnet" id="Q9QZ76"/>
+  <dbReference type="PhosphoSitePlus" id="Q9QZ76"/>
+  <dbReference type="PaxDb" id="10116-ENSRNOP00000006184"/>
+  <dbReference type="Ensembl" id="ENSRNOT00000006184.8">
+    <property type="protein sequence ID" value="ENSRNOP00000006184.3"/>
+    <property type="gene ID" value="ENSRNOG00000004583.8"/>
+  </dbReference>
+  <dbReference type="Ensembl" id="ENSRNOT00055046010">
+    <property type="protein sequence ID" value="ENSRNOP00055037738"/>
+    <property type="gene ID" value="ENSRNOG00055026647"/>
+  </dbReference>
+  <dbReference type="Ensembl" id="ENSRNOT00060047953">
+    <property type="protein sequence ID" value="ENSRNOP00060039897"/>
+    <property type="gene ID" value="ENSRNOG00060027625"/>
+  </dbReference>
+  <dbReference type="Ensembl" id="ENSRNOT00065053008">
+    <property type="protein sequence ID" value="ENSRNOP00065043535"/>
+    <property type="gene ID" value="ENSRNOG00065030753"/>
+  </dbReference>
+  <dbReference type="GeneID" id="59108"/>
+  <dbReference type="KEGG" id="rno:59108"/>
+  <dbReference type="UCSC" id="RGD:620411">
+    <property type="organism name" value="rat"/>
+  </dbReference>
+  <dbReference type="AGR" id="RGD:620411"/>
+  <dbReference type="CTD" id="4151"/>
+  <dbReference type="RGD" id="620411">
+    <property type="gene designation" value="Mb"/>
+  </dbReference>
+  <dbReference type="eggNOG" id="KOG3378">
+    <property type="taxonomic scope" value="Eukaryota"/>
+  </dbReference>
+  <dbReference type="GeneTree" id="ENSGT00940000160809"/>
+  <dbReference type="HOGENOM" id="CLU_003827_18_0_1"/>
+  <dbReference type="InParanoid" id="Q9QZ76"/>
+  <dbReference type="OMA" id="VIIRMFQ"/>
+  <dbReference type="OrthoDB" id="11352at9989"/>
+  <dbReference type="PhylomeDB" id="Q9QZ76"/>
+  <dbReference type="Reactome" id="R-RNO-8981607">
+    <property type="pathway name" value="Intracellular oxygen transport"/>
+  </dbReference>
+  <dbReference type="PRO" id="PR:Q9QZ76"/>
+  <dbReference type="Proteomes" id="UP000002494">
+    <property type="component" value="Chromosome 7"/>
+  </dbReference>
+  <dbReference type="Bgee" id="ENSRNOG00000004583">
+    <property type="expression patterns" value="Expressed in heart and 19 other cell types or tissues"/>
+  </dbReference>
+  <dbReference type="ExpressionAtlas" id="Q9QZ76">
+    <property type="expression patterns" value="baseline and differential"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005829">
+    <property type="term" value="C:cytosol"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005739">
+    <property type="term" value="C:mitochondrion"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0016528">
+    <property type="term" value="C:sarcoplasm"/>
+    <property type="evidence" value="ECO:0000250"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0020037">
+    <property type="term" value="F:heme binding"/>
+    <property type="evidence" value="ECO:0000303"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0046872">
+    <property type="term" value="F:metal ion binding"/>
+    <property type="evidence" value="ECO:0000501"/>
+    <property type="project" value="UniProtKB-KW"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0098809">
+    <property type="term" value="F:nitrite reductase activity"/>
+    <property type="evidence" value="ECO:0000250"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0019825">
+    <property type="term" value="F:oxygen binding"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005344">
+    <property type="term" value="F:oxygen carrier activity"/>
+    <property type="evidence" value="ECO:0000250"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0004601">
+    <property type="term" value="F:peroxidase activity"/>
+    <property type="evidence" value="ECO:0000250"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0050873">
+    <property type="term" value="P:brown fat cell differentiation"/>
+    <property type="evidence" value="ECO:0000266"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0071732">
+    <property type="term" value="P:cellular response to nitric oxide"/>
+    <property type="evidence" value="ECO:0000270"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0009631">
+    <property type="term" value="P:cold acclimation"/>
+    <property type="evidence" value="ECO:0000270"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0043353">
+    <property type="term" value="P:enucleate erythrocyte differentiation"/>
+    <property type="evidence" value="ECO:0000266"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0007507">
+    <property type="term" value="P:heart development"/>
+    <property type="evidence" value="ECO:0000266"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0015671">
+    <property type="term" value="P:oxygen transport"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0019430">
+    <property type="term" value="P:removal of superoxide radicals"/>
+    <property type="evidence" value="ECO:0000250"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0001975">
+    <property type="term" value="P:response to amphetamine"/>
+    <property type="evidence" value="ECO:0000270"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0009725">
+    <property type="term" value="P:response to hormone"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0042542">
+    <property type="term" value="P:response to hydrogen peroxide"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0001666">
+    <property type="term" value="P:response to hypoxia"/>
+    <property type="evidence" value="ECO:0000266"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0002931">
+    <property type="term" value="P:response to ischemia"/>
+    <property type="evidence" value="ECO:0000270"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0014850">
+    <property type="term" value="P:response to muscle activity"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0080033">
+    <property type="term" value="P:response to nitrite"/>
+    <property type="evidence" value="ECO:0000270"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0097066">
+    <property type="term" value="P:response to thyroid hormone"/>
+    <property type="evidence" value="ECO:0000270"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0003009">
+    <property type="term" value="P:skeletal muscle contraction"/>
+    <property type="evidence" value="ECO:0000318"/>
+    <property type="project" value="GO_Central"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0031444">
+    <property type="term" value="P:slow-twitch skeletal muscle fiber contraction"/>
+    <property type="evidence" value="ECO:0000270"/>
+    <property type="project" value="RGD"/>
+  </dbReference>
+  <dbReference type="Gene3D" id="6.10.140.2100">
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="Gene3D" id="6.10.140.2110">
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR000971">
+    <property type="entry name" value="Globin"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR009050">
+    <property type="entry name" value="Globin-like_sf"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR002335">
+    <property type="entry name" value="Myoglobin"/>
+  </dbReference>
+  <dbReference type="PANTHER" id="PTHR47132">
+    <property type="entry name" value="MYOGLOBIN"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PANTHER" id="PTHR47132:SF1">
+    <property type="entry name" value="MYOGLOBIN"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="Pfam" id="PF00042">
+    <property type="entry name" value="Globin"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PRINTS" id="PR00613">
+    <property type="entry name" value="MYOGLOBIN"/>
+  </dbReference>
+  <dbReference type="SUPFAM" id="SSF46458">
+    <property type="entry name" value="Globin-like"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PROSITE" id="PS01033">
+    <property type="entry name" value="GLOBIN"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <proteinExistence type="evidence at protein level"/>
+  <keyword id="KW-0963">Cytoplasm</keyword>
+  <keyword id="KW-0903">Direct protein sequencing</keyword>
+  <keyword id="KW-0349">Heme</keyword>
+  <keyword id="KW-0408">Iron</keyword>
+  <keyword id="KW-0479">Metal-binding</keyword>
+  <keyword id="KW-0514">Muscle protein</keyword>
+  <keyword id="KW-0560">Oxidoreductase</keyword>
+  <keyword id="KW-0561">Oxygen transport</keyword>
+  <keyword id="KW-0597">Phosphoprotein</keyword>
+  <keyword id="KW-1185">Reference proteome</keyword>
+  <keyword id="KW-0813">Transport</keyword>
+  <feature type="chain" id="PRO_0000053341" description="Myoglobin">
+    <location>
+      <begin position="1"/>
+      <end position="154"/>
+    </location>
+  </feature>
+  <feature type="domain" description="Globin" evidence="6">
+    <location>
+      <begin position="2"/>
+      <end position="148"/>
+    </location>
+  </feature>
+  <feature type="binding site" evidence="5">
+    <location>
+      <position position="65"/>
+    </location>
+    <ligand>
+      <name>nitrite</name>
+      <dbReference type="ChEBI" id="CHEBI:16301"/>
+    </ligand>
+  </feature>
+  <feature type="binding site" evidence="3 6">
+    <location>
+      <position position="65"/>
+    </location>
+    <ligand>
+      <name>O2</name>
+      <dbReference type="ChEBI" id="CHEBI:15379"/>
+    </ligand>
+  </feature>
+  <feature type="binding site" description="proximal binding residue" evidence="1">
+    <location>
+      <position position="94"/>
+    </location>
+    <ligand>
+      <name>heme b</name>
+      <dbReference type="ChEBI" id="CHEBI:60344"/>
+    </ligand>
+    <ligandPart>
+      <name>Fe</name>
+      <dbReference type="ChEBI" id="CHEBI:18248"/>
+    </ligandPart>
+  </feature>
+  <feature type="modified residue" description="Phosphoserine" evidence="10">
+    <location>
+      <position position="4"/>
+    </location>
+  </feature>
+  <feature type="modified residue" description="Phosphoserine" evidence="10">
+    <location>
+      <position position="32"/>
+    </location>
+  </feature>
+  <feature type="modified residue" description="Phosphothreonine" evidence="4">
+    <location>
+      <position position="68"/>
+    </location>
+  </feature>
+  <feature type="modified residue" description="Phosphoserine" evidence="10">
+    <location>
+      <position position="121"/>
+    </location>
+  </feature>
+  <feature type="modified residue" description="Phosphoserine" evidence="10">
+    <location>
+      <position position="133"/>
+    </location>
+  </feature>
+  <evidence type="ECO:0000250" key="1">
+    <source>
+      <dbReference type="UniProtKB" id="P02144"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000250" key="2">
+    <source>
+      <dbReference type="UniProtKB" id="P02185"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000250" key="3">
+    <source>
+      <dbReference type="UniProtKB" id="P02189"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000250" key="4">
+    <source>
+      <dbReference type="UniProtKB" id="P04247"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000250" key="5">
+    <source>
+      <dbReference type="UniProtKB" id="P68082"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000255" key="6">
+    <source>
+      <dbReference type="PROSITE-ProRule" id="PRU00238"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="7">
+    <source>
+      <dbReference type="PubMed" id="3118370"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="8">
+    <source>
+      <dbReference type="PubMed" id="3118370"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000312" key="9">
+    <source>
+      <dbReference type="RGD" id="620411"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0007744" key="10">
+    <source>
+      <dbReference type="PubMed" id="22673903"/>
+    </source>
+  </evidence>
+  <sequence length="154" mass="17157" checksum="98B31BE57FA020DA" modified="2007-01-23" version="3">MGLSDGEWQMVLNIWGKVEGDLAGHGQEVLISLFKAHPETLEKFDKFKNLKSEEEMKSSEDLKKHGCTVLTALGTILKKKGQHAAEIQPLAQSHATKHKIPVKYLEFISEVIIQVLKKRYSGDFGADAQGAMSKALELFRNDIAAKYKELGFQG</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
