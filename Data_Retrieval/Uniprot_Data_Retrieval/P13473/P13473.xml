@@ -1,0 +1,4951 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no" ?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1990-01-01" modified="2026-06-10" version="241" xmlns="http://uniprot.org/uniprot">
+  <accession>P13473</accession>
+  <accession>A8K4X5</accession>
+  <accession>D3DTF0</accession>
+  <accession>Q16641</accession>
+  <accession>Q6Q3G8</accession>
+  <accession>Q96J30</accession>
+  <accession>Q99534</accession>
+  <accession>Q9UD93</accession>
+  <name>LAMP2_HUMAN</name>
+  <protein>
+    <recommendedName>
+      <fullName evidence="33">Lysosome-associated membrane glycoprotein 2</fullName>
+      <shortName evidence="33">LAMP-2</shortName>
+      <shortName>Lysosome-associated membrane protein 2</shortName>
+    </recommendedName>
+    <alternativeName>
+      <fullName>CD107 antigen-like family member B</fullName>
+    </alternativeName>
+    <alternativeName>
+      <fullName evidence="36">LGP-96</fullName>
+    </alternativeName>
+    <cdAntigenName>CD107b</cdAntigenName>
+  </protein>
+  <gene>
+    <name type="primary">LAMP2</name>
+  </gene>
+  <organism>
+    <name type="scientific">Homo sapiens</name>
+    <name type="common">Human</name>
+    <dbReference type="NCBI Taxonomy" id="9606"/>
+    <lineage>
+      <taxon>Eukaryota</taxon>
+      <taxon>Metazoa</taxon>
+      <taxon>Chordata</taxon>
+      <taxon>Craniata</taxon>
+      <taxon>Vertebrata</taxon>
+      <taxon>Euteleostomi</taxon>
+      <taxon>Mammalia</taxon>
+      <taxon>Eutheria</taxon>
+      <taxon>Euarchontoglires</taxon>
+      <taxon>Primates</taxon>
+      <taxon>Haplorrhini</taxon>
+      <taxon>Catarrhini</taxon>
+      <taxon>Hominidae</taxon>
+      <taxon>Homo</taxon>
+    </lineage>
+  </organism>
+  <reference key="1">
+    <citation type="journal article" date="1988" name="J. Biol. Chem." volume="263" first="18920" last="18928">
+      <title>Cloning of cDNAs encoding human lysosomal membrane glycoproteins, h-lamp-1 and h-lamp-2. Comparison of their deduced amino acid sequences.</title>
+      <authorList>
+        <person name="Fukuda M."/>
+        <person name="Viitala J."/>
+        <person name="Matteson J."/>
+        <person name="Carlsson S.R."/>
+      </authorList>
+      <dbReference type="PubMed" id="3198605"/>
+      <dbReference type="DOI" id="10.1016/s0021-9258(18)37370-8"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM LAMP-2A)</scope>
+    <scope>PROTEIN SEQUENCE OF 29-64; 216-223 AND 238-256</scope>
+  </reference>
+  <reference key="2">
+    <citation type="journal article" date="1993" name="J. Biol. Chem." volume="268" first="9014" last="9022">
+      <title>The genes of major lysosomal membrane glycoproteins, lamp-1 and lamp-2. 5'-flanking sequence of lamp-2 gene and comparison of exon organization in two genes.</title>
+      <authorList>
+        <person name="Sawada R."/>
+        <person name="Jardine K.A."/>
+        <person name="Fukuda M."/>
+      </authorList>
+      <dbReference type="PubMed" id="8517882"/>
+      <dbReference type="DOI" id="10.1016/s0021-9258(18)52972-0"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA] (ISOFORM LAMP-2A)</scope>
+    <source>
+      <tissue>Placenta</tissue>
+    </source>
+  </reference>
+  <reference key="3">
+    <citation type="journal article" date="1993" name="J. Biol. Chem." volume="268" first="21102" last="21112">
+      <title>Molecular and cellular characterization of Mex-/methylation-resistant phenotype. Gene and cDNA cloning, serum dependence, and tumor suppression of transfectant strains.</title>
+      <authorList>
+        <person name="Fritz G."/>
+        <person name="Dosch J."/>
+        <person name="Thielmann H.W."/>
+        <person name="Kaina B."/>
+      </authorList>
+      <dbReference type="PubMed" id="8407947"/>
+      <dbReference type="DOI" id="10.1016/s0021-9258(19)36899-1"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM LAMP-2B)</scope>
+    <source>
+      <tissue>Fibroblast</tissue>
+    </source>
+  </reference>
+  <reference key="4">
+    <citation type="journal article" date="1994" name="Biochem. Biophys. Res. Commun." volume="205" first="1" last="5">
+      <title>Complete cDNA sequence of human lysosome-associated membrane protein-2.</title>
+      <authorList>
+        <person name="Konecki D.S."/>
+        <person name="Foetisch K."/>
+        <person name="Schlotter M."/>
+        <person name="Lichter-Konecki U."/>
+      </authorList>
+      <dbReference type="PubMed" id="7999007"/>
+      <dbReference type="DOI" id="10.1006/bbrc.1994.2620"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM LAMP-2A)</scope>
+    <source>
+      <tissue>Liver</tissue>
+    </source>
+  </reference>
+  <reference key="5">
+    <citation type="journal article" date="1995" name="Biochem. Biophys. Res. Commun." volume="215" first="757" last="767">
+      <title>An alternatively spliced form of the human lysosome-associated membrane protein-2 gene is expressed in a tissue-specific manner.</title>
+      <authorList>
+        <person name="Konecki D.S."/>
+        <person name="Foetisch K."/>
+        <person name="Zimmer K.P."/>
+        <person name="Schlotter M."/>
+        <person name="Lichter-Konecki U."/>
+      </authorList>
+      <dbReference type="PubMed" id="7488019"/>
+      <dbReference type="DOI" id="10.1006/bbrc.1995.2528"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM LAMP-2B)</scope>
+    <scope>TISSUE SPECIFICITY</scope>
+  </reference>
+  <reference key="6">
+    <citation type="submission" date="2004-02" db="EMBL/GenBank/DDBJ databases">
+      <title>Lamp-2 isoforms play different roles in lysosomal biogenesis.</title>
+      <authorList>
+        <person name="Zhou D."/>
+        <person name="Blum J.S."/>
+      </authorList>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM LAMP-2C)</scope>
+  </reference>
+  <reference key="7">
+    <citation type="journal article" date="2004" name="Nat. Genet." volume="36" first="40" last="45">
+      <title>Complete sequencing and characterization of 21,243 full-length human cDNAs.</title>
+      <authorList>
+        <person name="Ota T."/>
+        <person name="Suzuki Y."/>
+        <person name="Nishikawa T."/>
+        <person name="Otsuki T."/>
+        <person name="Sugiyama T."/>
+        <person name="Irie R."/>
+        <person name="Wakamatsu A."/>
+        <person name="Hayashi K."/>
+        <person name="Sato H."/>
+        <person name="Nagai K."/>
+        <person name="Kimura K."/>
+        <person name="Makita H."/>
+        <person name="Sekine M."/>
+        <person name="Obayashi M."/>
+        <person name="Nishi T."/>
+        <person name="Shibahara T."/>
+        <person name="Tanaka T."/>
+        <person name="Ishii S."/>
+        <person name="Yamamoto J."/>
+        <person name="Saito K."/>
+        <person name="Kawai Y."/>
+        <person name="Isono Y."/>
+        <person name="Nakamura Y."/>
+        <person name="Nagahari K."/>
+        <person name="Murakami K."/>
+        <person name="Yasuda T."/>
+        <person name="Iwayanagi T."/>
+        <person name="Wagatsuma M."/>
+        <person name="Shiratori A."/>
+        <person name="Sudo H."/>
+        <person name="Hosoiri T."/>
+        <person name="Kaku Y."/>
+        <person name="Kodaira H."/>
+        <person name="Kondo H."/>
+        <person name="Sugawara M."/>
+        <person name="Takahashi M."/>
+        <person name="Kanda K."/>
+        <person name="Yokoi T."/>
+        <person name="Furuya T."/>
+        <person name="Kikkawa E."/>
+        <person name="Omura Y."/>
+        <person name="Abe K."/>
+        <person name="Kamihara K."/>
+        <person name="Katsuta N."/>
+        <person name="Sato K."/>
+        <person name="Tanikawa M."/>
+        <person name="Yamazaki M."/>
+        <person name="Ninomiya K."/>
+        <person name="Ishibashi T."/>
+        <person name="Yamashita H."/>
+        <person name="Murakawa K."/>
+        <person name="Fujimori K."/>
+        <person name="Tanai H."/>
+        <person name="Kimata M."/>
+        <person name="Watanabe M."/>
+        <person name="Hiraoka S."/>
+        <person name="Chiba Y."/>
+        <person name="Ishida S."/>
+        <person name="Ono Y."/>
+        <person name="Takiguchi S."/>
+        <person name="Watanabe S."/>
+        <person name="Yosida M."/>
+        <person name="Hotuta T."/>
+        <person name="Kusano J."/>
+        <person name="Kanehori K."/>
+        <person name="Takahashi-Fujii A."/>
+        <person name="Hara H."/>
+        <person name="Tanase T.-O."/>
+        <person name="Nomura Y."/>
+        <person name="Togiya S."/>
+        <person name="Komai F."/>
+        <person name="Hara R."/>
+        <person name="Takeuchi K."/>
+        <person name="Arita M."/>
+        <person name="Imose N."/>
+        <person name="Musashino K."/>
+        <person name="Yuuki H."/>
+        <person name="Oshima A."/>
+        <person name="Sasaki N."/>
+        <person name="Aotsuka S."/>
+        <person name="Yoshikawa Y."/>
+        <person name="Matsunawa H."/>
+        <person name="Ichihara T."/>
+        <person name="Shiohata N."/>
+        <person name="Sano S."/>
+        <person name="Moriya S."/>
+        <person name="Momiyama H."/>
+        <person name="Satoh N."/>
+        <person name="Takami S."/>
+        <person name="Terashima Y."/>
+        <person name="Suzuki O."/>
+        <person name="Nakagawa S."/>
+        <person name="Senoh A."/>
+        <person name="Mizoguchi H."/>
+        <person name="Goto Y."/>
+        <person name="Shimizu F."/>
+        <person name="Wakebe H."/>
+        <person name="Hishigaki H."/>
+        <person name="Watanabe T."/>
+        <person name="Sugiyama A."/>
+        <person name="Takemoto M."/>
+        <person name="Kawakami B."/>
+        <person name="Yamazaki M."/>
+        <person name="Watanabe K."/>
+        <person name="Kumagai A."/>
+        <person name="Itakura S."/>
+        <person name="Fukuzumi Y."/>
+        <person name="Fujimori Y."/>
+        <person name="Komiyama M."/>
+        <person name="Tashiro H."/>
+        <person name="Tanigami A."/>
+        <person name="Fujiwara T."/>
+        <person name="Ono T."/>
+        <person name="Yamada K."/>
+        <person name="Fujii Y."/>
+        <person name="Ozaki K."/>
+        <person name="Hirao M."/>
+        <person name="Ohmori Y."/>
+        <person name="Kawabata A."/>
+        <person name="Hikiji T."/>
+        <person name="Kobatake N."/>
+        <person name="Inagaki H."/>
+        <person name="Ikema Y."/>
+        <person name="Okamoto S."/>
+        <person name="Okitani R."/>
+        <person name="Kawakami T."/>
+        <person name="Noguchi S."/>
+        <person name="Itoh T."/>
+        <person name="Shigeta K."/>
+        <person name="Senba T."/>
+        <person name="Matsumura K."/>
+        <person name="Nakajima Y."/>
+        <person name="Mizuno T."/>
+        <person name="Morinaga M."/>
+        <person name="Sasaki M."/>
+        <person name="Togashi T."/>
+        <person name="Oyama M."/>
+        <person name="Hata H."/>
+        <person name="Watanabe M."/>
+        <person name="Komatsu T."/>
+        <person name="Mizushima-Sugano J."/>
+        <person name="Satoh T."/>
+        <person name="Shirai Y."/>
+        <person name="Takahashi Y."/>
+        <person name="Nakagawa K."/>
+        <person name="Okumura K."/>
+        <person name="Nagase T."/>
+        <person name="Nomura N."/>
+        <person name="Kikuchi H."/>
+        <person name="Masuho Y."/>
+        <person name="Yamashita R."/>
+        <person name="Nakai K."/>
+        <person name="Yada T."/>
+        <person name="Nakamura Y."/>
+        <person name="Ohara O."/>
+        <person name="Isogai T."/>
+        <person name="Sugano S."/>
+      </authorList>
+      <dbReference type="PubMed" id="14702039"/>
+      <dbReference type="DOI" id="10.1038/ng1285"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM LAMP-2A)</scope>
+  </reference>
+  <reference key="8">
+    <citation type="journal article" date="2005" name="Nature" volume="434" first="325" last="337">
+      <title>The DNA sequence of the human X chromosome.</title>
+      <authorList>
+        <person name="Ross M.T."/>
+        <person name="Grafham D.V."/>
+        <person name="Coffey A.J."/>
+        <person name="Scherer S."/>
+        <person name="McLay K."/>
+        <person name="Muzny D."/>
+        <person name="Platzer M."/>
+        <person name="Howell G.R."/>
+        <person name="Burrows C."/>
+        <person name="Bird C.P."/>
+        <person name="Frankish A."/>
+        <person name="Lovell F.L."/>
+        <person name="Howe K.L."/>
+        <person name="Ashurst J.L."/>
+        <person name="Fulton R.S."/>
+        <person name="Sudbrak R."/>
+        <person name="Wen G."/>
+        <person name="Jones M.C."/>
+        <person name="Hurles M.E."/>
+        <person name="Andrews T.D."/>
+        <person name="Scott C.E."/>
+        <person name="Searle S."/>
+        <person name="Ramser J."/>
+        <person name="Whittaker A."/>
+        <person name="Deadman R."/>
+        <person name="Carter N.P."/>
+        <person name="Hunt S.E."/>
+        <person name="Chen R."/>
+        <person name="Cree A."/>
+        <person name="Gunaratne P."/>
+        <person name="Havlak P."/>
+        <person name="Hodgson A."/>
+        <person name="Metzker M.L."/>
+        <person name="Richards S."/>
+        <person name="Scott G."/>
+        <person name="Steffen D."/>
+        <person name="Sodergren E."/>
+        <person name="Wheeler D.A."/>
+        <person name="Worley K.C."/>
+        <person name="Ainscough R."/>
+        <person name="Ambrose K.D."/>
+        <person name="Ansari-Lari M.A."/>
+        <person name="Aradhya S."/>
+        <person name="Ashwell R.I."/>
+        <person name="Babbage A.K."/>
+        <person name="Bagguley C.L."/>
+        <person name="Ballabio A."/>
+        <person name="Banerjee R."/>
+        <person name="Barker G.E."/>
+        <person name="Barlow K.F."/>
+        <person name="Barrett I.P."/>
+        <person name="Bates K.N."/>
+        <person name="Beare D.M."/>
+        <person name="Beasley H."/>
+        <person name="Beasley O."/>
+        <person name="Beck A."/>
+        <person name="Bethel G."/>
+        <person name="Blechschmidt K."/>
+        <person name="Brady N."/>
+        <person name="Bray-Allen S."/>
+        <person name="Bridgeman A.M."/>
+        <person name="Brown A.J."/>
+        <person name="Brown M.J."/>
+        <person name="Bonnin D."/>
+        <person name="Bruford E.A."/>
+        <person name="Buhay C."/>
+        <person name="Burch P."/>
+        <person name="Burford D."/>
+        <person name="Burgess J."/>
+        <person name="Burrill W."/>
+        <person name="Burton J."/>
+        <person name="Bye J.M."/>
+        <person name="Carder C."/>
+        <person name="Carrel L."/>
+        <person name="Chako J."/>
+        <person name="Chapman J.C."/>
+        <person name="Chavez D."/>
+        <person name="Chen E."/>
+        <person name="Chen G."/>
+        <person name="Chen Y."/>
+        <person name="Chen Z."/>
+        <person name="Chinault C."/>
+        <person name="Ciccodicola A."/>
+        <person name="Clark S.Y."/>
+        <person name="Clarke G."/>
+        <person name="Clee C.M."/>
+        <person name="Clegg S."/>
+        <person name="Clerc-Blankenburg K."/>
+        <person name="Clifford K."/>
+        <person name="Cobley V."/>
+        <person name="Cole C.G."/>
+        <person name="Conquer J.S."/>
+        <person name="Corby N."/>
+        <person name="Connor R.E."/>
+        <person name="David R."/>
+        <person name="Davies J."/>
+        <person name="Davis C."/>
+        <person name="Davis J."/>
+        <person name="Delgado O."/>
+        <person name="Deshazo D."/>
+        <person name="Dhami P."/>
+        <person name="Ding Y."/>
+        <person name="Dinh H."/>
+        <person name="Dodsworth S."/>
+        <person name="Draper H."/>
+        <person name="Dugan-Rocha S."/>
+        <person name="Dunham A."/>
+        <person name="Dunn M."/>
+        <person name="Durbin K.J."/>
+        <person name="Dutta I."/>
+        <person name="Eades T."/>
+        <person name="Ellwood M."/>
+        <person name="Emery-Cohen A."/>
+        <person name="Errington H."/>
+        <person name="Evans K.L."/>
+        <person name="Faulkner L."/>
+        <person name="Francis F."/>
+        <person name="Frankland J."/>
+        <person name="Fraser A.E."/>
+        <person name="Galgoczy P."/>
+        <person name="Gilbert J."/>
+        <person name="Gill R."/>
+        <person name="Gloeckner G."/>
+        <person name="Gregory S.G."/>
+        <person name="Gribble S."/>
+        <person name="Griffiths C."/>
+        <person name="Grocock R."/>
+        <person name="Gu Y."/>
+        <person name="Gwilliam R."/>
+        <person name="Hamilton C."/>
+        <person name="Hart E.A."/>
+        <person name="Hawes A."/>
+        <person name="Heath P.D."/>
+        <person name="Heitmann K."/>
+        <person name="Hennig S."/>
+        <person name="Hernandez J."/>
+        <person name="Hinzmann B."/>
+        <person name="Ho S."/>
+        <person name="Hoffs M."/>
+        <person name="Howden P.J."/>
+        <person name="Huckle E.J."/>
+        <person name="Hume J."/>
+        <person name="Hunt P.J."/>
+        <person name="Hunt A.R."/>
+        <person name="Isherwood J."/>
+        <person name="Jacob L."/>
+        <person name="Johnson D."/>
+        <person name="Jones S."/>
+        <person name="de Jong P.J."/>
+        <person name="Joseph S.S."/>
+        <person name="Keenan S."/>
+        <person name="Kelly S."/>
+        <person name="Kershaw J.K."/>
+        <person name="Khan Z."/>
+        <person name="Kioschis P."/>
+        <person name="Klages S."/>
+        <person name="Knights A.J."/>
+        <person name="Kosiura A."/>
+        <person name="Kovar-Smith C."/>
+        <person name="Laird G.K."/>
+        <person name="Langford C."/>
+        <person name="Lawlor S."/>
+        <person name="Leversha M."/>
+        <person name="Lewis L."/>
+        <person name="Liu W."/>
+        <person name="Lloyd C."/>
+        <person name="Lloyd D.M."/>
+        <person name="Loulseged H."/>
+        <person name="Loveland J.E."/>
+        <person name="Lovell J.D."/>
+        <person name="Lozado R."/>
+        <person name="Lu J."/>
+        <person name="Lyne R."/>
+        <person name="Ma J."/>
+        <person name="Maheshwari M."/>
+        <person name="Matthews L.H."/>
+        <person name="McDowall J."/>
+        <person name="McLaren S."/>
+        <person name="McMurray A."/>
+        <person name="Meidl P."/>
+        <person name="Meitinger T."/>
+        <person name="Milne S."/>
+        <person name="Miner G."/>
+        <person name="Mistry S.L."/>
+        <person name="Morgan M."/>
+        <person name="Morris S."/>
+        <person name="Mueller I."/>
+        <person name="Mullikin J.C."/>
+        <person name="Nguyen N."/>
+        <person name="Nordsiek G."/>
+        <person name="Nyakatura G."/>
+        <person name="O'dell C.N."/>
+        <person name="Okwuonu G."/>
+        <person name="Palmer S."/>
+        <person name="Pandian R."/>
+        <person name="Parker D."/>
+        <person name="Parrish J."/>
+        <person name="Pasternak S."/>
+        <person name="Patel D."/>
+        <person name="Pearce A.V."/>
+        <person name="Pearson D.M."/>
+        <person name="Pelan S.E."/>
+        <person name="Perez L."/>
+        <person name="Porter K.M."/>
+        <person name="Ramsey Y."/>
+        <person name="Reichwald K."/>
+        <person name="Rhodes S."/>
+        <person name="Ridler K.A."/>
+        <person name="Schlessinger D."/>
+        <person name="Schueler M.G."/>
+        <person name="Sehra H.K."/>
+        <person name="Shaw-Smith C."/>
+        <person name="Shen H."/>
+        <person name="Sheridan E.M."/>
+        <person name="Shownkeen R."/>
+        <person name="Skuce C.D."/>
+        <person name="Smith M.L."/>
+        <person name="Sotheran E.C."/>
+        <person name="Steingruber H.E."/>
+        <person name="Steward C.A."/>
+        <person name="Storey R."/>
+        <person name="Swann R.M."/>
+        <person name="Swarbreck D."/>
+        <person name="Tabor P.E."/>
+        <person name="Taudien S."/>
+        <person name="Taylor T."/>
+        <person name="Teague B."/>
+        <person name="Thomas K."/>
+        <person name="Thorpe A."/>
+        <person name="Timms K."/>
+        <person name="Tracey A."/>
+        <person name="Trevanion S."/>
+        <person name="Tromans A.C."/>
+        <person name="d'Urso M."/>
+        <person name="Verduzco D."/>
+        <person name="Villasana D."/>
+        <person name="Waldron L."/>
+        <person name="Wall M."/>
+        <person name="Wang Q."/>
+        <person name="Warren J."/>
+        <person name="Warry G.L."/>
+        <person name="Wei X."/>
+        <person name="West A."/>
+        <person name="Whitehead S.L."/>
+        <person name="Whiteley M.N."/>
+        <person name="Wilkinson J.E."/>
+        <person name="Willey D.L."/>
+        <person name="Williams G."/>
+        <person name="Williams L."/>
+        <person name="Williamson A."/>
+        <person name="Williamson H."/>
+        <person name="Wilming L."/>
+        <person name="Woodmansey R.L."/>
+        <person name="Wray P.W."/>
+        <person name="Yen J."/>
+        <person name="Zhang J."/>
+        <person name="Zhou J."/>
+        <person name="Zoghbi H."/>
+        <person name="Zorilla S."/>
+        <person name="Buck D."/>
+        <person name="Reinhardt R."/>
+        <person name="Poustka A."/>
+        <person name="Rosenthal A."/>
+        <person name="Lehrach H."/>
+        <person name="Meindl A."/>
+        <person name="Minx P.J."/>
+        <person name="Hillier L.W."/>
+        <person name="Willard H.F."/>
+        <person name="Wilson R.K."/>
+        <person name="Waterston R.H."/>
+        <person name="Rice C.M."/>
+        <person name="Vaudin M."/>
+        <person name="Coulson A."/>
+        <person name="Nelson D.L."/>
+        <person name="Weinstock G."/>
+        <person name="Sulston J.E."/>
+        <person name="Durbin R.M."/>
+        <person name="Hubbard T."/>
+        <person name="Gibbs R.A."/>
+        <person name="Beck S."/>
+        <person name="Rogers J."/>
+        <person name="Bentley D.R."/>
+      </authorList>
+      <dbReference type="PubMed" id="15772651"/>
+      <dbReference type="DOI" id="10.1038/nature03440"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+  </reference>
+  <reference key="9">
+    <citation type="submission" date="2005-09" db="EMBL/GenBank/DDBJ databases">
+      <authorList>
+        <person name="Mural R.J."/>
+        <person name="Istrail S."/>
+        <person name="Sutton G.G."/>
+        <person name="Florea L."/>
+        <person name="Halpern A.L."/>
+        <person name="Mobarry C.M."/>
+        <person name="Lippert R."/>
+        <person name="Walenz B."/>
+        <person name="Shatkay H."/>
+        <person name="Dew I."/>
+        <person name="Miller J.R."/>
+        <person name="Flanigan M.J."/>
+        <person name="Edwards N.J."/>
+        <person name="Bolanos R."/>
+        <person name="Fasulo D."/>
+        <person name="Halldorsson B.V."/>
+        <person name="Hannenhalli S."/>
+        <person name="Turner R."/>
+        <person name="Yooseph S."/>
+        <person name="Lu F."/>
+        <person name="Nusskern D.R."/>
+        <person name="Shue B.C."/>
+        <person name="Zheng X.H."/>
+        <person name="Zhong F."/>
+        <person name="Delcher A.L."/>
+        <person name="Huson D.H."/>
+        <person name="Kravitz S.A."/>
+        <person name="Mouchard L."/>
+        <person name="Reinert K."/>
+        <person name="Remington K.A."/>
+        <person name="Clark A.G."/>
+        <person name="Waterman M.S."/>
+        <person name="Eichler E.E."/>
+        <person name="Adams M.D."/>
+        <person name="Hunkapiller M.W."/>
+        <person name="Myers E.W."/>
+        <person name="Venter J.C."/>
+      </authorList>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+  </reference>
+  <reference key="10">
+    <citation type="journal article" date="2004" name="Genome Res." volume="14" first="2121" last="2127">
+      <title>The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).</title>
+      <authorList>
+        <consortium name="The MGC Project Team"/>
+      </authorList>
+      <dbReference type="PubMed" id="15489334"/>
+      <dbReference type="DOI" id="10.1101/gr.2596504"/>
+    </citation>
+    <scope>NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM LAMP-2B)</scope>
+    <source>
+      <tissue>Lymph</tissue>
+    </source>
+  </reference>
+  <reference key="11">
+    <citation type="journal article" date="1989" name="Arch. Biochem. Biophys." volume="268" first="360" last="378">
+      <title>Purification and characterization of human lysosomal membrane glycoproteins.</title>
+      <authorList>
+        <person name="Mane S.M."/>
+        <person name="Marzella L."/>
+        <person name="Bainton D.F."/>
+        <person name="Holt V.K."/>
+        <person name="Cha Y."/>
+        <person name="Hildreth J.E.K."/>
+        <person name="August J.T."/>
+      </authorList>
+      <dbReference type="PubMed" id="2912382"/>
+      <dbReference type="DOI" id="10.1016/0003-9861(89)90597-3"/>
+    </citation>
+    <scope>PROTEIN SEQUENCE OF 29-66</scope>
+    <scope>GLYCOSYLATION</scope>
+    <scope>SUBCELLULAR LOCATION</scope>
+  </reference>
+  <reference key="12">
+    <citation type="journal article" date="2004" name="Protein Sci." volume="13" first="2819" last="2824">
+      <title>Signal peptide prediction based on analysis of experimentally verified cleavage sites.</title>
+      <authorList>
+        <person name="Zhang Z."/>
+        <person name="Henzel W.J."/>
+      </authorList>
+      <dbReference type="PubMed" id="15340161"/>
+      <dbReference type="DOI" id="10.1110/ps.04682504"/>
+    </citation>
+    <scope>PROTEIN SEQUENCE OF 29-43</scope>
+  </reference>
+  <reference key="13">
+    <citation type="journal article" date="1990" name="J. Biol. Chem." volume="265" first="20488" last="20495">
+      <title>The polylactosaminoglycans of human lysosomal membrane glycoproteins lamp-1 and lamp-2. Localization on the peptide backbones.</title>
+      <authorList>
+        <person name="Carlsson S.R."/>
+        <person name="Fukuda M."/>
+      </authorList>
+      <dbReference type="PubMed" id="2243102"/>
+      <dbReference type="DOI" id="10.1016/s0021-9258(17)30530-6"/>
+    </citation>
+    <scope>POLYLACTOSAMINOGLYCANS</scope>
+    <scope>GLYCOSYLATION</scope>
+  </reference>
+  <reference key="14">
+    <citation type="journal article" date="1993" name="Arch. Biochem. Biophys." volume="304" first="65" last="73">
+      <title>Assignment of O-glycan attachment sites to the hinge-like regions of human lysosomal membrane glycoproteins lamp-1 and lamp-2.</title>
+      <authorList>
+        <person name="Carlsson S.R."/>
+        <person name="Lycksell P.-O."/>
+        <person name="Fukuda M."/>
+      </authorList>
+      <dbReference type="PubMed" id="8323299"/>
+      <dbReference type="DOI" id="10.1006/abbi.1993.1322"/>
+    </citation>
+    <scope>GLYCOSYLATION AT ASN-32; ASN-38; ASN-49; ASN-58; ASN-75; ASN-101; ASN-123; ASN-179; SER-195; THR-196; THR-200; THR-203; THR-204; SER-207; THR-209; THR-210; THR-211; THR-213; ASN-229; ASN-242; ASN-275; ASN-300; ASN-307 AND ASN-317</scope>
+    <scope>PROTEIN SEQUENCE OF 187-215</scope>
+  </reference>
+  <reference key="15">
+    <citation type="journal article" date="1996" name="Science" volume="273" first="501" last="503">
+      <title>A receptor for the selective uptake and degradation of proteins by lysosomes.</title>
+      <authorList>
+        <person name="Cuervo A.M."/>
+        <person name="Dice J.F."/>
+      </authorList>
+      <dbReference type="PubMed" id="8662539"/>
+      <dbReference type="DOI" id="10.1126/science.273.5274.501"/>
+    </citation>
+    <scope>FUNCTION</scope>
+    <scope>SUBCELLULAR LOCATION</scope>
+  </reference>
+  <reference key="16">
+    <citation type="journal article" date="2000" name="J. Cell Sci." volume="113" first="4441" last="4450">
+      <title>Unique properties of lamp2a compared to other lamp2 isoforms.</title>
+      <authorList>
+        <person name="Cuervo A.M."/>
+        <person name="Dice J.F."/>
+      </authorList>
+      <dbReference type="PubMed" id="11082038"/>
+      <dbReference type="DOI" id="10.1242/jcs.113.24.4441"/>
+    </citation>
+    <scope>FUNCTION (ISOFORM LAMP-2A)</scope>
+    <scope>SUBCELLULAR LOCATION</scope>
+    <scope>TOPOLOGY</scope>
+    <scope>MUTAGENESIS OF 401-LYS--HIS-404</scope>
+  </reference>
+  <reference key="17">
+    <citation type="journal article" date="2003" name="Nat. Biotechnol." volume="21" first="660" last="666">
+      <title>Identification and quantification of N-linked glycoproteins using hydrazide chemistry, stable isotope labeling and mass spectrometry.</title>
+      <authorList>
+        <person name="Zhang H."/>
+        <person name="Li X.-J."/>
+        <person name="Martin D.B."/>
+        <person name="Aebersold R."/>
+      </authorList>
+      <dbReference type="PubMed" id="12754519"/>
+      <dbReference type="DOI" id="10.1038/nbt827"/>
+    </citation>
+    <scope>GLYCOSYLATION AT ASN-49 AND ASN-101</scope>
+  </reference>
+  <reference key="18">
+    <citation type="journal article" date="2005" name="Immunity" volume="22" first="571" last="581">
+      <title>Lamp-2a facilitates MHC class II presentation of cytoplasmic antigens.</title>
+      <authorList>
+        <person name="Zhou D."/>
+        <person name="Li P."/>
+        <person name="Lin Y."/>
+        <person name="Lott J.M."/>
+        <person name="Hislop A.D."/>
+        <person name="Canaday D.H."/>
+        <person name="Brutkiewicz R.R."/>
+        <person name="Blum J.S."/>
+      </authorList>
+      <dbReference type="PubMed" id="15894275"/>
+      <dbReference type="DOI" id="10.1016/j.immuni.2005.03.009"/>
+    </citation>
+    <scope>FUNCTION</scope>
+  </reference>
+  <reference key="19">
+    <citation type="journal article" date="2005" name="J. Proteome Res." volume="4" first="2070" last="2080">
+      <title>Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry.</title>
+      <authorList>
+        <person name="Liu T."/>
+        <person name="Qian W.-J."/>
+        <person name="Gritsenko M.A."/>
+        <person name="Camp D.G. II"/>
+        <person name="Monroe M.E."/>
+        <person name="Moore R.J."/>
+        <person name="Smith R.D."/>
+      </authorList>
+      <dbReference type="PubMed" id="16335952"/>
+      <dbReference type="DOI" id="10.1021/pr0502065"/>
+    </citation>
+    <scope>GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-32; ASN-38; ASN-49; ASN-101; ASN-123 AND ASN-257</scope>
+    <source>
+      <tissue>Plasma</tissue>
+    </source>
+  </reference>
+  <reference key="20">
+    <citation type="journal article" date="2005" name="Traffic" volume="6" first="1058" last="1061">
+      <title>Unifying nomenclature for the isoforms of the lysosomal membrane protein LAMP-2.</title>
+      <authorList>
+        <person name="Eskelinen E.L."/>
+        <person name="Cuervo A.M."/>
+        <person name="Taylor M.R."/>
+        <person name="Nishino I."/>
+        <person name="Blum J.S."/>
+        <person name="Dice J.F."/>
+        <person name="Sandoval I.V."/>
+        <person name="Lippincott-Schwartz J."/>
+        <person name="August J.T."/>
+        <person name="Saftig P."/>
+      </authorList>
+      <dbReference type="PubMed" id="16190986"/>
+      <dbReference type="DOI" id="10.1111/j.1600-0854.2005.00337.x"/>
+    </citation>
+    <scope>NOMENCLATURE</scope>
+  </reference>
+  <reference key="21">
+    <citation type="journal article" date="2007" name="Traffic" volume="8" first="1676" last="1686">
+      <title>Integral and associated lysosomal membrane proteins.</title>
+      <authorList>
+        <person name="Schroeder B."/>
+        <person name="Wrocklage C."/>
+        <person name="Pan C."/>
+        <person name="Jaeger R."/>
+        <person name="Koesters B."/>
+        <person name="Schaefer H."/>
+        <person name="Elsaesser H.-P."/>
+        <person name="Mann M."/>
+        <person name="Hasilik A."/>
+      </authorList>
+      <dbReference type="PubMed" id="17897319"/>
+      <dbReference type="DOI" id="10.1111/j.1600-0854.2007.00643.x"/>
+    </citation>
+    <scope>SUBCELLULAR LOCATION [LARGE SCALE ANALYSIS]</scope>
+    <source>
+      <tissue>Placenta</tissue>
+    </source>
+  </reference>
+  <reference key="22">
+    <citation type="journal article" date="2008" name="Mol. Cell. Biol." volume="28" first="5747" last="5763">
+      <title>The chaperone-mediated autophagy receptor organizes in dynamic protein complexes at the lysosomal membrane.</title>
+      <authorList>
+        <person name="Bandyopadhyay U."/>
+        <person name="Kaushik S."/>
+        <person name="Varticovski L."/>
+        <person name="Cuervo A.M."/>
+      </authorList>
+      <dbReference type="PubMed" id="18644871"/>
+      <dbReference type="DOI" id="10.1128/mcb.02070-07"/>
+    </citation>
+    <scope>FUNCTION</scope>
+    <scope>SUBCELLULAR LOCATION</scope>
+    <scope>SUBUNIT</scope>
+  </reference>
+  <reference key="23">
+    <citation type="journal article" date="2009" name="J. Proteome Res." volume="8" first="651" last="661">
+      <title>Glycoproteomics analysis of human liver tissue by combination of multiple enzyme digestion and hydrazide chemistry.</title>
+      <authorList>
+        <person name="Chen R."/>
+        <person name="Jiang X."/>
+        <person name="Sun D."/>
+        <person name="Han G."/>
+        <person name="Wang F."/>
+        <person name="Ye M."/>
+        <person name="Wang L."/>
+        <person name="Zou H."/>
+      </authorList>
+      <dbReference type="PubMed" id="19159218"/>
+      <dbReference type="DOI" id="10.1021/pr8008012"/>
+    </citation>
+    <scope>GLYCOSYLATION [LARGE SCALE ANALYSIS] AT ASN-101; ASN-123; ASN-257 AND ASN-356</scope>
+    <source>
+      <tissue>Liver</tissue>
+    </source>
+  </reference>
+  <reference key="24">
+    <citation type="journal article" date="2010" name="Immunology" volume="131" first="318" last="330">
+      <title>LAMP-2-deficient human B cells exhibit altered MHC class II presentation of exogenous antigens.</title>
+      <authorList>
+        <person name="Crotzer V.L."/>
+        <person name="Glosson N."/>
+        <person name="Zhou D."/>
+        <person name="Nishino I."/>
+        <person name="Blum J.S."/>
+      </authorList>
+      <dbReference type="PubMed" id="20518820"/>
+      <dbReference type="DOI" id="10.1111/j.1365-2567.2010.03309.x"/>
+    </citation>
+    <scope>FUNCTION</scope>
+  </reference>
+  <reference key="25">
+    <citation type="journal article" date="2011" name="BMC Syst. Biol." volume="5" first="17" last="17">
+      <title>Initial characterization of the human central proteome.</title>
+      <authorList>
+        <person name="Burkard T.R."/>
+        <person name="Planyavsky M."/>
+        <person name="Kaupe I."/>
+        <person name="Breitwieser F.P."/>
+        <person name="Buerckstuemmer T."/>
+        <person name="Bennett K.L."/>
+        <person name="Superti-Furga G."/>
+        <person name="Colinge J."/>
+      </authorList>
+      <dbReference type="PubMed" id="21269460"/>
+      <dbReference type="DOI" id="10.1186/1752-0509-5-17"/>
+    </citation>
+    <scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+  </reference>
+  <reference key="26">
+    <citation type="journal article" date="2012" name="J. Cell Sci." volume="125" first="4230" last="4240">
+      <title>The lysosomal polypeptide transporter TAPL is stabilized by interaction with LAMP-1 and LAMP-2.</title>
+      <authorList>
+        <person name="Demirel O."/>
+        <person name="Jan I."/>
+        <person name="Wolters D."/>
+        <person name="Blanz J."/>
+        <person name="Saftig P."/>
+        <person name="Tampe R."/>
+        <person name="Abele R."/>
+      </authorList>
+      <dbReference type="PubMed" id="22641697"/>
+      <dbReference type="DOI" id="10.1242/jcs.087346"/>
+    </citation>
+    <scope>INTERACTION WITH ABCB9</scope>
+  </reference>
+  <reference key="27">
+    <citation type="journal article" date="2014" name="Exp. Cell Res." volume="327" first="48" last="56">
+      <title>Degradation of AF1Q by chaperone-mediated autophagy.</title>
+      <authorList>
+        <person name="Li P."/>
+        <person name="Ji M."/>
+        <person name="Lu F."/>
+        <person name="Zhang J."/>
+        <person name="Li H."/>
+        <person name="Cui T."/>
+        <person name="Li Wang X."/>
+        <person name="Tang D."/>
+        <person name="Ji C."/>
+      </authorList>
+      <dbReference type="PubMed" id="24880125"/>
+      <dbReference type="DOI" id="10.1016/j.yexcr.2014.05.013"/>
+    </citation>
+    <scope>INTERACTION WITH MLLT11</scope>
+    <scope>FUNCTION</scope>
+  </reference>
+  <reference key="28">
+    <citation type="journal article" date="2015" name="Proteomics" volume="15" first="2519" last="2524">
+      <title>N-terminome analysis of the human mitochondrial proteome.</title>
+      <authorList>
+        <person name="Vaca Jacome A.S."/>
+        <person name="Rabilloud T."/>
+        <person name="Schaeffer-Reiss C."/>
+        <person name="Rompais M."/>
+        <person name="Ayoub D."/>
+        <person name="Lane L."/>
+        <person name="Bairoch A."/>
+        <person name="Van Dorsselaer A."/>
+        <person name="Carapito C."/>
+      </authorList>
+      <dbReference type="PubMed" id="25944712"/>
+      <dbReference type="DOI" id="10.1002/pmic.201400617"/>
+    </citation>
+    <scope>IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]</scope>
+  </reference>
+  <reference key="29">
+    <citation type="journal article" date="2016" name="Biol. Open" volume="5" first="1516" last="1529">
+      <title>LAMP-2 is required for incorporating syntaxin-17 into autophagosomes and for their fusion with lysosomes.</title>
+      <authorList>
+        <person name="Hubert V."/>
+        <person name="Peschel A."/>
+        <person name="Langer B."/>
+        <person name="Groeger M."/>
+        <person name="Rees A."/>
+        <person name="Kain R."/>
+      </authorList>
+      <dbReference type="PubMed" id="27628032"/>
+      <dbReference type="DOI" id="10.1242/bio.018648"/>
+    </citation>
+    <scope>FUNCTION</scope>
+  </reference>
+  <reference key="30">
+    <citation type="journal article" date="2016" name="J. Immunol." volume="196" first="2457" last="2465">
+      <title>LAMP-2C inhibits MHC class II presentation of cytoplasmic antigens by disrupting chaperone-mediated autophagy.</title>
+      <authorList>
+        <person name="Perez L."/>
+        <person name="McLetchie S."/>
+        <person name="Gardiner G.J."/>
+        <person name="Deffit S.N."/>
+        <person name="Zhou D."/>
+        <person name="Blum J.S."/>
+      </authorList>
+      <dbReference type="PubMed" id="26856698"/>
+      <dbReference type="DOI" id="10.4049/jimmunol.1501476"/>
+    </citation>
+    <scope>FUNCTION (ISOFORM LAMP-2C)</scope>
+    <scope>TISSUE SPECIFICITY</scope>
+    <scope>INDUCTION BY B CELL STIMULATION</scope>
+  </reference>
+  <reference key="31">
+    <citation type="journal article" date="2020" name="J. Virol." volume="94">
+      <title>Lysosome-Associated Membrane Proteins Support the Furin-Mediated Processing of the Mumps Virus Fusion Protein.</title>
+      <authorList>
+        <person name="Ueo A."/>
+        <person name="Kubota M."/>
+        <person name="Shirogane Y."/>
+        <person name="Ohno S."/>
+        <person name="Hashiguchi T."/>
+        <person name="Yanagi Y."/>
+      </authorList>
+      <dbReference type="PubMed" id="32295904"/>
+      <dbReference type="DOI" id="10.1128/jvi.00050-20"/>
+    </citation>
+    <scope>FUNCTION (MICROBIAL INFECTION)</scope>
+    <scope>INTERACTION WITH FURIN</scope>
+    <scope>INTERACTION WITH MUMPS VIRURS PROTEIN F (MICROBIAL INFECTION)</scope>
+  </reference>
+  <reference key="32">
+    <citation type="journal article" date="2022" name="Mol. Cell">
+      <title>Palmitoylation prevents sustained inflammation by limiting NLRP3 inflammasome activation through chaperone-mediated autophagy.</title>
+      <authorList>
+        <person name="Wang L."/>
+        <person name="Cai J."/>
+        <person name="Zhao X."/>
+        <person name="Ma L."/>
+        <person name="Zeng P."/>
+        <person name="Zhou L."/>
+        <person name="Liu Y."/>
+        <person name="Yang S."/>
+        <person name="Cai Z."/>
+        <person name="Zhang S."/>
+        <person name="Zhou L."/>
+        <person name="Yang J."/>
+        <person name="Liu T."/>
+        <person name="Jin S."/>
+        <person name="Cui J."/>
+      </authorList>
+      <dbReference type="PubMed" id="36586411"/>
+      <dbReference type="DOI" id="10.1016/j.molcel.2022.12.002"/>
+    </citation>
+    <scope>FUNCTION</scope>
+  </reference>
+  <reference key="33">
+    <citation type="journal article" date="2023" name="Cell Death Differ." volume="30" first="500" last="514">
+      <title>Deficiency of cancer/testis antigen gene CT55 causes male infertility in humans and mice.</title>
+      <authorList>
+        <person name="Zhang G."/>
+        <person name="Jiang C."/>
+        <person name="Yang Y."/>
+        <person name="Wang Y."/>
+        <person name="Zhou H."/>
+        <person name="Dai S."/>
+        <person name="Liu M."/>
+        <person name="Yang Y."/>
+        <person name="Yang L."/>
+        <person name="Shen Q."/>
+        <person name="Zhang T."/>
+        <person name="Zhang X."/>
+        <person name="Yang Y."/>
+        <person name="Shen Y."/>
+      </authorList>
+      <dbReference type="PubMed" id="36481789"/>
+      <dbReference type="DOI" id="10.1038/s41418-022-01098-6"/>
+    </citation>
+    <scope>INTERACTION WITH CT55</scope>
+  </reference>
+  <reference key="34">
+    <citation type="journal article" date="2023" name="Mol. Cell" volume="83" first="2524" last="2539">
+      <title>Lysosomal LAMP proteins regulate lysosomal pH by direct inhibition of the TMEM175 channel.</title>
+      <authorList>
+        <person name="Zhang J."/>
+        <person name="Zeng W."/>
+        <person name="Han Y."/>
+        <person name="Lee W.R."/>
+        <person name="Liou J."/>
+        <person name="Jiang Y."/>
+      </authorList>
+      <dbReference type="PubMed" id="37390818"/>
+      <dbReference type="DOI" id="10.1016/j.molcel.2023.06.004"/>
+    </citation>
+    <scope>FUNCTION</scope>
+    <scope>INTERACTION WITH TMEM175</scope>
+  </reference>
+  <reference key="35">
+    <citation type="journal article" date="2014" name="J. Biol. Chem." volume="289" first="35111" last="35123">
+      <title>Structure of transmembrane domain of lysosome-associated membrane protein type 2a (LAMP-2A) reveals key features for substrate specificity in chaperone-mediated autophagy.</title>
+      <authorList>
+        <person name="Rout A.K."/>
+        <person name="Strub M.P."/>
+        <person name="Piszczek G."/>
+        <person name="Tjandra N."/>
+      </authorList>
+      <dbReference type="PubMed" id="25342746"/>
+      <dbReference type="DOI" id="10.1074/jbc.m114.609446"/>
+    </citation>
+    <scope>STRUCTURE BY NMR OF 369-410</scope>
+    <scope>INTERACTION WITH HSPA8</scope>
+    <scope>SUBUNIT</scope>
+  </reference>
+  <reference key="36">
+    <citation type="journal article" date="2005" name="N. Engl. J. Med." volume="352" first="362" last="372">
+      <title>Glycogen storage diseases presenting as hypertrophic cardiomyopathy.</title>
+      <authorList>
+        <person name="Arad M."/>
+        <person name="Maron B.J."/>
+        <person name="Gorham J.M."/>
+        <person name="Johnson W.H. Jr."/>
+        <person name="Saul J.P."/>
+        <person name="Perez-Atayde A.R."/>
+        <person name="Spirito P."/>
+        <person name="Wright G.B."/>
+        <person name="Kanter R.J."/>
+        <person name="Seidman C.E."/>
+        <person name="Seidman J.G."/>
+      </authorList>
+      <dbReference type="PubMed" id="15673802"/>
+      <dbReference type="DOI" id="10.1056/nejmoa033349"/>
+    </citation>
+    <scope>VARIANT DAND ARG-321</scope>
+  </reference>
+  <reference key="37">
+    <citation type="journal article" date="2005" name="Neuromuscul. Disord." volume="15" first="409" last="411">
+      <title>Asymptomatic hyperCKemia in a case of Danon disease due to a missense mutation in Lamp-2 gene.</title>
+      <authorList>
+        <person name="Musumeci O."/>
+        <person name="Rodolico C."/>
+        <person name="Nishino I."/>
+        <person name="Di Guardo G."/>
+        <person name="Migliorato A."/>
+        <person name="Aguennouz M."/>
+        <person name="Mazzeo A."/>
+        <person name="Messina C."/>
+        <person name="Vita G."/>
+        <person name="Toscano A."/>
+      </authorList>
+      <dbReference type="PubMed" id="15907287"/>
+      <dbReference type="DOI" id="10.1016/j.nmd.2005.02.008"/>
+    </citation>
+    <scope>VARIANT DAND ARG-321</scope>
+  </reference>
+  <comment type="function">
+    <text evidence="1 6 10 14 16 19 22 27 28 31">Lysosomal membrane glycoprotein which plays an important role in lysosome biogenesis, lysosomal pH regulation and autophagy (PubMed:11082038, PubMed:18644871, PubMed:24880125, PubMed:27628032, PubMed:36586411, PubMed:37390818, PubMed:8662539). Acts as an important regulator of lysosomal lumen pH regulation by acting as a direct inhibitor of the proton channel TMEM175, facilitating lysosomal acidification for optimal hydrolase activity (PubMed:37390818). Plays an important role in chaperone-mediated autophagy, a process that mediates lysosomal degradation of proteins in response to various stresses and as part of the normal turnover of proteins with a long biological half-live (PubMed:11082038, PubMed:18644871, PubMed:24880125, PubMed:27628032, PubMed:36586411, PubMed:8662539). Functions by binding target proteins, such as GAPDH, GPX4, NLRP3 and MLLT11, and targeting them for lysosomal degradation (PubMed:11082038, PubMed:18644871, PubMed:24880125, PubMed:36586411, PubMed:8662539). In the chaperone-mediated autophagy, acts downstream of chaperones, such as HSPA8/HSC70, which recognize and bind substrate proteins and mediate their recruitment to lysosomes, where target proteins bind LAMP2 (PubMed:36586411). Plays a role in lysosomal protein degradation in response to starvation (By similarity). Required for the fusion of autophagosomes with lysosomes during autophagy (PubMed:27628032). Cells that lack LAMP2 express normal levels of VAMP8, but fail to accumulate STX17 on autophagosomes, which is the most likely explanation for the lack of fusion between autophagosomes and lysosomes (PubMed:27628032). Required for normal degradation of the contents of autophagosomes (PubMed:27628032). Required for efficient MHC class II-mediated presentation of exogenous antigens via its function in lysosomal protein degradation; antigenic peptides generated by proteases in the endosomal/lysosomal compartment are captured by nascent MHC II subunits (PubMed:15894275, PubMed:20518820). Is not required for efficient MHC class II-mediated presentation of endogenous antigens (PubMed:20518820).</text>
+  </comment>
+  <comment type="function">
+    <molecule>Isoform LAMP-2C</molecule>
+    <text evidence="21">Modulates chaperone-mediated autophagy. Decreases presentation of endogenous antigens by MHCII. Does not play a role in the presentation of exogenous and membrane-derived antigens by MHCII.</text>
+  </comment>
+  <comment type="function">
+    <text evidence="25">(Microbial infection) Supports the FURIN-mediated cleavage of mumps virus fusion protein F by interacting with both FURIN and the unprocessed form but not the processed form of the viral protein F.</text>
+  </comment>
+  <comment type="subunit">
+    <text evidence="1 2 14 18 19 20 25 26 28">Monomer (PubMed:18644871, PubMed:25342746). Homodimer (PubMed:25342746). Homotrimer (PubMed:25342746). Forms large homooligomers (PubMed:18644871). Interacts (via its cytoplasmic region) with HSPA8; HSPA8 mediates recruitment of proteins with a KFERQ motif to the surface of the lysosome for chaperone-mediated autophagy (PubMed:25342746, PubMed:36586411). Interacts with HSP90 in the lysosome lumen; this enhances LAMP2 stability (By similarity). Interacts with MLLT11 (PubMed:24880125). Interacts with ABCB9 (PubMed:22641697). Interacts with FURIN (PubMed:32295904). Interacts with CT55; this interaction may be important for LAMP2 protein stability (PubMed:36481789). Interacts with TMEM175; inhibiting the proton channel activity of TMEM175 (PubMed:37390818). Forms a ternary complex with RAB7A and RUFY4 (via RUN domain); the interaction with RAB7A is mediated by RUFY4 (via RUN and coiled coil domains) (By similarity).</text>
+  </comment>
+  <comment type="subunit">
+    <text evidence="25">(Microbial infection) Interacts with mumps virus protein F; this interaction promotes protein F cleavage by FURIN.</text>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25873349">
+      <id>P45844-6</id>
+      <label>ABCG1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-21854797">
+      <id>Q7Z5M8-2</id>
+      <label>ABHD12B</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25835070">
+      <id>Q9Y614</id>
+      <label>ACTL7B</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-18899653">
+      <id>Q6DHV7-2</id>
+      <label>ADAL</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10173507">
+      <id>Q6UY14-3</id>
+      <label>ADAMTSL4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-8466265">
+      <id>Q96MA6</id>
+      <label>AK8</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-22006248">
+      <id>Q5T2L2</id>
+      <label>AKR1C8</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-9089544">
+      <id>Q96Q83-2</id>
+      <label>ALKBH3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12323557">
+      <id>Q9Y303-2</id>
+      <label>AMDHD2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-8464238">
+      <id>Q9NU02</id>
+      <label>ANKEF1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2556852">
+      <id>P09525</id>
+      <label>ANXA4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-701692">
+      <id>P02647</id>
+      <label>APOA1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2114682">
+      <id>P02749</id>
+      <label>APOH</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-638194">
+      <id>P53365</id>
+      <label>ARFIP2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-5280499">
+      <id>Q66PJ3-4</id>
+      <label>ARL6IP4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10254793">
+      <id>Q6XD76</id>
+      <label>ASCL4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-492498">
+      <id>P18848</id>
+      <label>ATF4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1048913">
+      <id>Q9H0Y0</id>
+      <label>ATG10</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25836940">
+      <id>C1IDX9</id>
+      <label>ATG12</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1044001">
+      <id>O75964</id>
+      <label>ATP5MG</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-8994378">
+      <id>Q14032</id>
+      <label>BAAT</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25834445">
+      <id>P54687-4</id>
+      <label>BCAT1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-7936069">
+      <id>P06276</id>
+      <label>BCHE</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10693038">
+      <id>Q9NSI6-4</id>
+      <label>BRWD1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-7996695">
+      <id>Q8WZ55</id>
+      <label>BSND</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-22006737">
+      <id>Q96Q07-2</id>
+      <label>BTBD9</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12108466">
+      <id>Q9H0W9-3</id>
+      <label>C11orf54</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-3844053">
+      <id>Q13901</id>
+      <label>C1D</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-18036948">
+      <id>Q3SXR2</id>
+      <label>C3orf36</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10264911">
+      <id>Q8N1A6</id>
+      <label>C4orf33</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1028956">
+      <id>P17655</id>
+      <label>CAPN2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-11532021">
+      <id>P20807-4</id>
+      <label>CAPN3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-718729">
+      <id>P55212</id>
+      <label>CASP6</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-4392727">
+      <id>O00257-3</id>
+      <label>CBX4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-395261">
+      <id>P24863</id>
+      <label>CCNC</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25873837">
+      <id>Q9UK58-5</id>
+      <label>CCNL1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12300031">
+      <id>Q9NNX6-10</id>
+      <label>CD209</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-353826">
+      <id>P01730</id>
+      <label>CD4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-396137">
+      <id>Q9UJX2</id>
+      <label>CDC23</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-711290">
+      <id>P42773</id>
+      <label>CDKN2C</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-3913685">
+      <id>O95674</id>
+      <label>CDS2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-712959">
+      <id>O15182</id>
+      <label>CETN3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-749253">
+      <id>Q8WUX9</id>
+      <label>CHMP7</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-744045">
+      <id>Q9Y3D0</id>
+      <label>CIAO2B</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10265133">
+      <id>Q8N365</id>
+      <label>CIART</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-7062247">
+      <id>Q9UHD4</id>
+      <label>CIDEB</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2624951">
+      <id>Q99966</id>
+      <label>CITED1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-4401010">
+      <id>P09496-2</id>
+      <label>CLTA</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25836090">
+      <id>Q6PJW8-3</id>
+      <label>CNST</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-6269632">
+      <id>Q96BR5</id>
+      <label>COA7</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12375799">
+      <id>P02458-1</id>
+      <label>COL2A1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-745535">
+      <id>Q8NI60</id>
+      <label>COQ8A</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-713677">
+      <id>Q9UGL9</id>
+      <label>CRCT1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1965681">
+      <id>P26998</id>
+      <label>CRYBB3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-491549">
+      <id>P35222</id>
+      <label>CTNNB1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-8637742">
+      <id>Q53TN4</id>
+      <label>CYBRD1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2951522">
+      <id>P10632</id>
+      <label>CYP2C8</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-359808">
+      <id>P61962</id>
+      <label>DCAF7</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-746300">
+      <id>Q96LJ7</id>
+      <label>DHRS1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-3908248">
+      <id>O60479</id>
+      <label>DLX3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-11526226">
+      <id>Q96EY1-3</id>
+      <label>DNAJA3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-296550">
+      <id>Q96KC8</id>
+      <label>DNAJC1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-23669343">
+      <id>Q92782-2</id>
+      <label>DPF1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-724653">
+      <id>Q9BPU6</id>
+      <label>DPYSL5</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10248874">
+      <id>Q658K8</id>
+      <label>EEF1DP3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-711990">
+      <id>O00303</id>
+      <label>EIF3F</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-354047">
+      <id>Q13347</id>
+      <label>EIF3I</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-395274">
+      <id>O00472</id>
+      <label>ELL2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-751327">
+      <id>O00423</id>
+      <label>EML1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25836908">
+      <id>O95278-6</id>
+      <label>EPM2A</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-21567429">
+      <id>Q6NXG1-3</id>
+      <label>ESRP1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-6378830">
+      <id>P00748</id>
+      <label>F12</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25835236">
+      <id>Q49AJ0-4</id>
+      <label>FAM135B</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10290462">
+      <id>Q96KS9</id>
+      <label>FAM167A</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12201693">
+      <id>Q8N128-2</id>
+      <label>FAM177A1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-8468186">
+      <id>Q8IZU1</id>
+      <label>FAM9A</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1055752">
+      <id>Q9NYY8</id>
+      <label>FASTKD2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-11090973">
+      <id>Q9NQ89</id>
+      <label>FERRY3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-9640259">
+      <id>P02671-2</id>
+      <label>FGA</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-7962481">
+      <id>Q6ZNL6</id>
+      <label>FGD5</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-3909329">
+      <id>Q9NSA1</id>
+      <label>FGF21</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25872794">
+      <id>P49771-3</id>
+      <label>FLT3LG</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-6425864">
+      <id>Q3SYB3</id>
+      <label>FOXD4L6</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25872807">
+      <id>Q6P7E6</id>
+      <label>FUT6</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-515315">
+      <id>P06241</id>
+      <label>FYN</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-9088619">
+      <id>Q06547-3</id>
+      <label>GABPB1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2868909">
+      <id>Q9H3K2</id>
+      <label>GHITM</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-11991950">
+      <id>Q8WWP7</id>
+      <label>GIMAP1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12143817">
+      <id>Q49A26-4</id>
+      <label>GLYR1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-358539">
+      <id>Q9HAV0</id>
+      <label>GNB4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-715539">
+      <id>P32780</id>
+      <label>GTF2H1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-6447217">
+      <id>O75409</id>
+      <label>H2AP</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2868501">
+      <id>Q6NXT2</id>
+      <label>H3-5</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-79722">
+      <id>P68431</id>
+      <label>H3C12</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2558143">
+      <id>Q9BT25</id>
+      <label>HAUS8</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12003732">
+      <id>Q9NRZ9-6</id>
+      <label>HELLS</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25835621">
+      <id>Q96EW2-2</id>
+      <label>HSPBAP1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-21771049">
+      <id>Q8N6M8-2</id>
+      <label>IQCF1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10278909">
+      <id>Q92613</id>
+      <label>JADE3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-9090173">
+      <id>P0C870</id>
+      <label>JMJD7</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-720411">
+      <id>Q9UK76</id>
+      <label>JPT1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-743960">
+      <id>Q8N5Z5</id>
+      <label>KCTD17</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-21838933">
+      <id>Q8TBB5-2</id>
+      <label>KLHDC4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-8524663">
+      <id>Q9UH77</id>
+      <label>KLHL3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10973851">
+      <id>Q8N4N3-2</id>
+      <label>KLHL36</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-8473062">
+      <id>Q8N1A0</id>
+      <label>KRT222</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-9088829">
+      <id>Q6DKI2</id>
+      <label>LGALS9C</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25835523">
+      <id>Q9H2C1</id>
+      <label>LHX5</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10264791">
+      <id>Q8N0U6</id>
+      <label>LINC00518</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-727376">
+      <id>Q9Y234</id>
+      <label>LIPT1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-725647">
+      <id>Q99732</id>
+      <label>LITAF</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2510853">
+      <id>Q1L5Z9</id>
+      <label>LONRF2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-749562">
+      <id>Q96JB6</id>
+      <label>LOXL4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-14752528">
+      <id>Q8IYG6</id>
+      <label>LRRC56</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25872860">
+      <id>Q5VYH9</id>
+      <label>LY9</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-21916939">
+      <id>P0DP58-2</id>
+      <label>LYNX1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10182930">
+      <id>P43361</id>
+      <label>MAGEA8</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-741835">
+      <id>Q96M61</id>
+      <label>MAGEB18</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-944295">
+      <id>Q969L2</id>
+      <label>MAL2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-3911344">
+      <id>P27338</id>
+      <label>MAOB</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2689785">
+      <id>Q8NI22</id>
+      <label>MCFD2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10174029">
+      <id>A6NJ78-4</id>
+      <label>METTL15</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25835557">
+      <id>A0A0A0MR05</id>
+      <label>MLST8</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-21823432">
+      <id>P34949-2</id>
+      <label>MPI</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-747381">
+      <id>Q9BV20</id>
+      <label>MRI1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25835707">
+      <id>Q6IN84-2</id>
+      <label>MRM1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-17937277">
+      <id>Q8N387</id>
+      <label>MUC15</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-9088235">
+      <id>A2RUH7</id>
+      <label>MYBPHL</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-447544">
+      <id>P01106</id>
+      <label>MYC</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12260336">
+      <id>Q9H7X0</id>
+      <label>NAA60</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25834665">
+      <id>Q15742-2</id>
+      <label>NAB2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-11526455">
+      <id>Q9UJ70-2</id>
+      <label>NAGK</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10986258">
+      <id>Q69YL0</id>
+      <label>NCBP2AS2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-389728">
+      <id>P25208</id>
+      <label>NFYB</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12329915">
+      <id>Q8NDH3-5</id>
+      <label>NPEPL1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25840002">
+      <id>O15130-2</id>
+      <label>NPFF</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25834643">
+      <id>P36639-4</id>
+      <label>NUDT1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2563158">
+      <id>Q8NFH4</id>
+      <label>NUP37</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1059321">
+      <id>Q8NFH3</id>
+      <label>NUP43</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-741048">
+      <id>Q7Z3B4</id>
+      <label>NUP54</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-22006224">
+      <id>Q6N063-2</id>
+      <label>OGFOD2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25830200">
+      <id>Q6GQQ9-2</id>
+      <label>OTUD7B</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-750317">
+      <id>Q99447</id>
+      <label>PCYT2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12080840">
+      <id>P27815-4</id>
+      <label>PDE4A</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-11337896">
+      <id>A5PLL7</id>
+      <label>PEDS1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-722852">
+      <id>Q9BUL5</id>
+      <label>PHF23</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1042490">
+      <id>Q00169</id>
+      <label>PITPNA</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1047143">
+      <id>P48739</id>
+      <label>PITPNB</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-21503705">
+      <id>Q58EX7-2</id>
+      <label>PLEKHG4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-725795">
+      <id>O60664</id>
+      <label>PLIN3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-712752">
+      <id>Q14181</id>
+      <label>POLA2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-359498">
+      <id>P0DPB6</id>
+      <label>POLR1D</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-395202">
+      <id>P36954</id>
+      <label>POLR2I</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-78615">
+      <id>Q07869</id>
+      <label>PPARA</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1048104">
+      <id>O60927</id>
+      <label>PPP1R11</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25835994">
+      <id>Q6ZMI0-5</id>
+      <label>PPP1R21</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25836043">
+      <id>Q8NCQ7-2</id>
+      <label>PROCA1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25836834">
+      <id>P23942</id>
+      <label>PRPH2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-948821">
+      <id>P41222</id>
+      <label>PTGDS</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-710431">
+      <id>P29074</id>
+      <label>PTPN4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25835884">
+      <id>Q8WUD1-2</id>
+      <label>RAB2B</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10699389">
+      <id>Q5R372-9</id>
+      <label>RABGAP1L</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-9089733">
+      <id>Q9HD47-3</id>
+      <label>RANGRF</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-620823">
+      <id>Q09028</id>
+      <label>RBBP4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-395290">
+      <id>Q14498</id>
+      <label>RBM39</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-14065960">
+      <id>Q96HR9-2</id>
+      <label>REEP6</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-73886">
+      <id>Q04206</id>
+      <label>RELA</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25834767">
+      <id>P47804-3</id>
+      <label>RGR</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1055287">
+      <id>Q15382</id>
+      <label>RHEB</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>4</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-9091816">
+      <id>Q9NPQ8-4</id>
+      <label>RIC8A</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-752313">
+      <id>Q06587</id>
+      <label>RING1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-714023">
+      <id>Q8N5U6</id>
+      <label>RNF10</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-712189">
+      <id>Q96IZ7</id>
+      <label>RSRC1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10248967">
+      <id>Q66K80</id>
+      <label>RUSC1-AS1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-954338">
+      <id>O15126</id>
+      <label>SCAMP1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25834804">
+      <id>P22307-3</id>
+      <label>SCP2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1389808">
+      <id>Q9BRK5</id>
+      <label>SDF4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-9089805">
+      <id>Q9NTN9-3</id>
+      <label>SEMA4G</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-296557">
+      <id>P01011</id>
+      <label>SERPINA3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1171999">
+      <id>Q9BWM7</id>
+      <label>SFXN3</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>4</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-749607">
+      <id>Q9NR46</id>
+      <label>SH3GLB2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10818532">
+      <id>Q9BZQ2</id>
+      <label>SHCBP1L</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-9092164">
+      <id>O60902-3</id>
+      <label>SHOX2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-727085">
+      <id>O43772</id>
+      <label>SLC25A20</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2822550">
+      <id>Q8IYM2</id>
+      <label>SLFN12</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-3232100">
+      <id>Q86US8</id>
+      <label>SMG6</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2874543">
+      <id>Q96EX1</id>
+      <label>SMIM12</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-985879">
+      <id>P37840</id>
+      <label>SNCA</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-747719">
+      <id>Q96H20</id>
+      <label>SNF8</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2643803">
+      <id>Q8N0X7</id>
+      <label>SPART</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-3923692">
+      <id>Q496A3</id>
+      <label>SPATS1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12512419">
+      <id>Q9NYA1-2</id>
+      <label>SPHK1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-21726245">
+      <id>Q9BPZ2</id>
+      <label>SPIN2B</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-751020">
+      <id>Q9P2T0</id>
+      <label>SPMAP2</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-354861">
+      <id>Q9C004</id>
+      <label>SPRY4</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2659201">
+      <id>Q96BD6</id>
+      <label>SPSB1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-17962797">
+      <id>Q9BXA5</id>
+      <label>SUCNR1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-21560407">
+      <id>Q92797-2</id>
+      <label>SYMPK</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-11123832">
+      <id>O60506-4</id>
+      <label>SYNCRIP</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-9071725">
+      <id>P08247</id>
+      <label>SYP</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10238936">
+      <id>Q17RD7</id>
+      <label>SYT16</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2824328">
+      <id>O95947</id>
+      <label>TBX6</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-954089">
+      <id>O15273</id>
+      <label>TCAP</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2562799">
+      <id>Q86WV5</id>
+      <label>TEN1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-711018">
+      <id>P54274-2</id>
+      <label>TERF1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2562368">
+      <id>P22735</id>
+      <label>TGM1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12027348">
+      <id>O43548</id>
+      <label>TGM5</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-3920747">
+      <id>Q9NQ88</id>
+      <label>TIGAR</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1047996">
+      <id>O14925</id>
+      <label>TIMM23</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-8633987">
+      <id>Q12893</id>
+      <label>TMEM115</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25874374">
+      <id>Q8WVE6-2</id>
+      <label>TMEM171</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2821479">
+      <id>Q3YBM2</id>
+      <label>TMEM176B</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10242677">
+      <id>Q53NU3</id>
+      <label>tmp_locus_54</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1047508">
+      <id>Q9NS69</id>
+      <label>TOMM22</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-366083">
+      <id>P04637</id>
+      <label>TP53</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-396540">
+      <id>Q12888</id>
+      <label>TP53BP1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-523498">
+      <id>O00463</id>
+      <label>TRAF5</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-740098">
+      <id>P36406</id>
+      <label>TRIM23</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12840050">
+      <id>Q9C035-3</id>
+      <label>TRIM5</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-11525489">
+      <id>Q86WT6-2</id>
+      <label>TRIM69</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-17671298">
+      <id>Q9H313-4</id>
+      <label>TTYH1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1103245">
+      <id>Q9BQE3</id>
+      <label>TUBA1C</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2339348">
+      <id>P49459</id>
+      <label>UBE2A</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2340619">
+      <id>P62253</id>
+      <label>UBE2G1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-714860">
+      <id>P09936</id>
+      <label>UCHL1</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25835297">
+      <id>Q9P1Q0-4</id>
+      <label>VPS54</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10316321">
+      <id>Q9NX94</id>
+      <label>WBP1L</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-17769315">
+      <id>Q6ICG8</id>
+      <label>WBP2NL</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25835937">
+      <id>Q8NA23-2</id>
+      <label>WDR31</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-1237307">
+      <id>Q9BQA1</id>
+      <label>WDR77</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-727198">
+      <id>O00755</id>
+      <label>WNT7A</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-2799703">
+      <id>O95070</id>
+      <label>YIF1A</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-12956041">
+      <id>Q8IWT0-2</id>
+      <label>ZBTB8OS</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-14104088">
+      <id>Q53FD0-2</id>
+      <label>ZC2HC1C</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25835471">
+      <id>Q05CR2</id>
+      <label>ZNF248</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25835852">
+      <id>Q96JL9-2</id>
+      <label>ZNF333</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-9091553">
+      <id>Q96LX8</id>
+      <label>ZNF597</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-18036029">
+      <id>Q3KNS6-3</id>
+      <label>ZNF829</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-723434">
+      <id>Q5JTY5</id>
+      <label>ZNG1C</label>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25834468">
+      <id>A0A384MDV8</id>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-25831617">
+      <id>B7Z3E8</id>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="interaction">
+    <interactant intactId="EBI-21591415">
+      <id>P13473-2</id>
+    </interactant>
+    <interactant intactId="EBI-10259496">
+      <id>Q86V28</id>
+    </interactant>
+    <organismsDiffer>false</organismsDiffer>
+    <experiments>3</experiments>
+  </comment>
+  <comment type="subcellular location">
+    <subcellularLocation>
+      <location evidence="4 6 13 14 23">Lysosome membrane</location>
+      <topology evidence="4 13">Single-pass type I membrane protein</topology>
+    </subcellularLocation>
+    <subcellularLocation>
+      <location evidence="13">Endosome membrane</location>
+      <topology evidence="4 13">Single-pass type I membrane protein</topology>
+    </subcellularLocation>
+    <subcellularLocation>
+      <location evidence="13 23">Cell membrane</location>
+      <topology evidence="4 13">Single-pass type I membrane protein</topology>
+    </subcellularLocation>
+    <subcellularLocation>
+      <location evidence="2">Cytoplasmic vesicle</location>
+      <location evidence="2">Autophagosome membrane</location>
+    </subcellularLocation>
+    <text evidence="13">This protein shuttles between lysosomes, endosomes, and the plasma membrane.</text>
+  </comment>
+  <comment type="alternative products">
+    <event type="alternative splicing"/>
+    <isoform>
+      <id>P13473-1</id>
+      <name>LAMP-2A</name>
+      <sequence type="displayed"/>
+    </isoform>
+    <isoform>
+      <id>P13473-2</id>
+      <name>LAMP-2B</name>
+      <sequence type="described" ref="VSP_003044"/>
+    </isoform>
+    <isoform>
+      <id>P13473-3</id>
+      <name>LAMP-2C</name>
+      <sequence type="described" ref="VSP_042519"/>
+    </isoform>
+  </comment>
+  <comment type="tissue specificity">
+    <text evidence="21 29">Isoform LAMP-2A is highly expressed in placenta, lung and liver, less in kidney and pancreas, low in brain and skeletal muscle (PubMed:26856698, PubMed:7488019). Isoform LAMP-2B is detected in spleen, thymus, prostate, testis, small intestine, colon, skeletal muscle, brain, placenta, lung, kidney, ovary and pancreas and liver (PubMed:26856698, PubMed:7488019). Isoform LAMP-2C is detected in small intestine, colon, heart, brain, skeletal muscle, and at lower levels in kidney and placenta (PubMed:26856698).</text>
+  </comment>
+  <comment type="induction">
+    <text evidence="21">In peripheral blood B cells isoform LAMP-2A, LAMP-2B and LAMP-2C are up-regulated in response to treatments that stimulate immune responses via the Toll-like receptors TLR7 or TLR9.</text>
+  </comment>
+  <comment type="PTM">
+    <text evidence="7 12 15 17 23 30">O- and N-glycosylated; some of the 16 N-linked glycans are polylactosaminoglycans.</text>
+  </comment>
+  <comment type="disease" evidence="9 11">
+    <disease id="DI-00385">
+      <name>Danon disease</name>
+      <acronym>DAND</acronym>
+      <description>DAND is a lysosomal glycogen storage disease characterized by the clinical triad of cardiomyopathy, vacuolar myopathy and intellectual disability. It is often associated with an accumulation of glycogen in muscle and lysosomes.</description>
+      <dbReference type="MIM" id="300257"/>
+    </disease>
+    <text>The disease is caused by variants affecting the gene represented in this entry.</text>
+  </comment>
+  <comment type="similarity">
+    <text evidence="4">Belongs to the LAMP family.</text>
+  </comment>
+  <dbReference type="EMBL" id="J04183">
+    <property type="protein sequence ID" value="AAA60383.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="L09717">
+    <property type="protein sequence ID" value="AAB41647.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="L09709">
+    <property type="protein sequence ID" value="AAB41647.1"/>
+    <property type="status" value="JOINED"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="L09710">
+    <property type="protein sequence ID" value="AAB41647.1"/>
+    <property type="status" value="JOINED"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="L09711">
+    <property type="protein sequence ID" value="AAB41647.1"/>
+    <property type="status" value="JOINED"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="L09712">
+    <property type="protein sequence ID" value="AAB41647.1"/>
+    <property type="status" value="JOINED"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="L09713">
+    <property type="protein sequence ID" value="AAB41647.1"/>
+    <property type="status" value="JOINED"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="L09714">
+    <property type="protein sequence ID" value="AAB41647.1"/>
+    <property type="status" value="JOINED"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="L09715">
+    <property type="protein sequence ID" value="AAB41647.1"/>
+    <property type="status" value="JOINED"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="L09716">
+    <property type="protein sequence ID" value="AAB41647.1"/>
+    <property type="status" value="JOINED"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="X77196">
+    <property type="protein sequence ID" value="CAA54416.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="S79873">
+    <property type="protein sequence ID" value="AAB35426.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="U36336">
+    <property type="protein sequence ID" value="AAA91149.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="AY561849">
+    <property type="protein sequence ID" value="AAS67876.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="AK291090">
+    <property type="protein sequence ID" value="BAF83779.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="AC002476">
+    <property type="protein sequence ID" value="AAB67313.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="AC002476">
+    <property type="protein sequence ID" value="AAB67314.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="CH471107">
+    <property type="protein sequence ID" value="EAX11881.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="CH471107">
+    <property type="protein sequence ID" value="EAX11882.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="CH471107">
+    <property type="protein sequence ID" value="EAX11883.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="CH471107">
+    <property type="protein sequence ID" value="EAX11884.1"/>
+    <property type="molecule type" value="Genomic_DNA"/>
+  </dbReference>
+  <dbReference type="EMBL" id="BC002965">
+    <property type="protein sequence ID" value="AAH02965.1"/>
+    <property type="molecule type" value="mRNA"/>
+  </dbReference>
+  <dbReference type="CCDS" id="CCDS14599.1">
+    <molecule id="P13473-1"/>
+  </dbReference>
+  <dbReference type="CCDS" id="CCDS14600.1">
+    <molecule id="P13473-2"/>
+  </dbReference>
+  <dbReference type="CCDS" id="CCDS48159.1">
+    <molecule id="P13473-3"/>
+  </dbReference>
+  <dbReference type="PIR" id="JC2414">
+    <property type="entry name" value="B31959"/>
+  </dbReference>
+  <dbReference type="PIR" id="JC4317">
+    <property type="entry name" value="JC4317"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_001116078.1">
+    <molecule id="P13473-3"/>
+    <property type="nucleotide sequence ID" value="NM_001122606.1"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_002285.1">
+    <molecule id="P13473-1"/>
+    <property type="nucleotide sequence ID" value="NM_002294.3"/>
+  </dbReference>
+  <dbReference type="RefSeq" id="NP_054701.1">
+    <molecule id="P13473-2"/>
+    <property type="nucleotide sequence ID" value="NM_013995.2"/>
+  </dbReference>
+  <dbReference type="PDB" id="2MOF">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A=369-410"/>
+  </dbReference>
+  <dbReference type="PDB" id="2MOM">
+    <property type="method" value="NMR"/>
+    <property type="chains" value="A/B/C=369-410"/>
+  </dbReference>
+  <dbReference type="PDBsum" id="2MOF"/>
+  <dbReference type="PDBsum" id="2MOM"/>
+  <dbReference type="AlphaFoldDB" id="P13473"/>
+  <dbReference type="BMRB" id="P13473"/>
+  <dbReference type="SMR" id="P13473"/>
+  <dbReference type="BioGRID" id="110114">
+    <property type="interactions" value="644"/>
+  </dbReference>
+  <dbReference type="FunCoup" id="P13473">
+    <property type="interactions" value="1506"/>
+  </dbReference>
+  <dbReference type="IntAct" id="P13473">
+    <property type="interactions" value="324"/>
+  </dbReference>
+  <dbReference type="MINT" id="P13473"/>
+  <dbReference type="NDEx" id="IQUERY-CP-LAMP2">
+    <property type="evidences" value="3 NDEx IQuery Curated Pathways"/>
+  </dbReference>
+  <dbReference type="STRING" id="9606.ENSP00000408411"/>
+  <dbReference type="ChEMBL" id="CHEMBL5465542"/>
+  <dbReference type="TCDB" id="9.A.16.1.2">
+    <property type="family name" value="the lysosomal protein import (lpi) family"/>
+  </dbReference>
+  <dbReference type="GlyConnect" id="P13473">
+    <property type="glycosylation" value="120 N-Linked glycans (12 sites), 3 O-Linked glycans"/>
+  </dbReference>
+  <dbReference type="GlyCosmos" id="P13473">
+    <property type="glycosylation" value="26 sites, 142 glycans"/>
+  </dbReference>
+  <dbReference type="GlyGen" id="P13473">
+    <property type="glycosylation" value="32 sites, 307 N-linked glycans (14 sites), 1 N-linked;o-linked glycan (1 site), 6 O-linked glycans (14 sites)"/>
+  </dbReference>
+  <dbReference type="iPTMnet" id="P13473"/>
+  <dbReference type="PhosphoSitePlus" id="P13473"/>
+  <dbReference type="SwissPalm" id="P13473"/>
+  <dbReference type="BioMuta" id="LAMP2"/>
+  <dbReference type="DMDM" id="1708854"/>
+  <dbReference type="CPTAC" id="CPTAC-1494"/>
+  <dbReference type="CPTAC" id="CPTAC-689"/>
+  <dbReference type="jPOST" id="P13473"/>
+  <dbReference type="MassIVE" id="P13473"/>
+  <dbReference type="PaxDb" id="9606-ENSP00000408411"/>
+  <dbReference type="PeptideAtlas" id="P13473"/>
+  <dbReference type="ProteomicsDB" id="52910">
+    <molecule id="P13473-1"/>
+  </dbReference>
+  <dbReference type="ProteomicsDB" id="52911">
+    <molecule id="P13473-2"/>
+  </dbReference>
+  <dbReference type="ProteomicsDB" id="52912">
+    <molecule id="P13473-3"/>
+  </dbReference>
+  <dbReference type="Pumba" id="P13473"/>
+  <dbReference type="Antibodypedia" id="3938">
+    <property type="antibodies" value="1326 antibodies from 53 providers"/>
+  </dbReference>
+  <dbReference type="DNASU" id="3920"/>
+  <dbReference type="Ensembl" id="ENST00000200639.9">
+    <molecule id="P13473-1"/>
+    <property type="protein sequence ID" value="ENSP00000200639.4"/>
+    <property type="gene ID" value="ENSG00000005893.18"/>
+  </dbReference>
+  <dbReference type="Ensembl" id="ENST00000371335.4">
+    <molecule id="P13473-2"/>
+    <property type="protein sequence ID" value="ENSP00000360386.4"/>
+    <property type="gene ID" value="ENSG00000005893.18"/>
+  </dbReference>
+  <dbReference type="Ensembl" id="ENST00000434600.6">
+    <molecule id="P13473-3"/>
+    <property type="protein sequence ID" value="ENSP00000408411.2"/>
+    <property type="gene ID" value="ENSG00000005893.18"/>
+  </dbReference>
+  <dbReference type="GeneID" id="3920"/>
+  <dbReference type="KEGG" id="hsa:3920"/>
+  <dbReference type="MANE-Select" id="ENST00000200639.9">
+    <property type="protein sequence ID" value="ENSP00000200639.4"/>
+    <property type="RefSeq nucleotide sequence ID" value="NM_002294.3"/>
+    <property type="RefSeq protein sequence ID" value="NP_002285.1"/>
+  </dbReference>
+  <dbReference type="UCSC" id="uc004ess.5">
+    <molecule id="P13473-1"/>
+    <property type="organism name" value="human"/>
+  </dbReference>
+  <dbReference type="AGR" id="HGNC:6501"/>
+  <dbReference type="ClinPGx" id="PA30285"/>
+  <dbReference type="CTD" id="3920"/>
+  <dbReference type="DisGeNET" id="3920"/>
+  <dbReference type="GeneCards" id="LAMP2"/>
+  <dbReference type="GeneReviews" id="LAMP2"/>
+  <dbReference type="HGNC" id="HGNC:6501">
+    <property type="gene designation" value="LAMP2"/>
+  </dbReference>
+  <dbReference type="HPA" id="ENSG00000005893">
+    <property type="expression patterns" value="Low tissue specificity"/>
+  </dbReference>
+  <dbReference type="MalaCards" id="LAMP2"/>
+  <dbReference type="MIM" id="300257">
+    <property type="type" value="phenotype"/>
+  </dbReference>
+  <dbReference type="MIM" id="309060">
+    <property type="type" value="gene"/>
+  </dbReference>
+  <dbReference type="OpenTargets" id="ENSG00000005893"/>
+  <dbReference type="Orphanet" id="34587">
+    <property type="disease" value="Danon disease"/>
+  </dbReference>
+  <dbReference type="VEuPathDB" id="HostDB:ENSG00000005893"/>
+  <dbReference type="eggNOG" id="KOG4818">
+    <property type="taxonomic scope" value="Eukaryota"/>
+  </dbReference>
+  <dbReference type="GeneTree" id="ENSGT00950000182899"/>
+  <dbReference type="HOGENOM" id="CLU_055379_2_0_1"/>
+  <dbReference type="InParanoid" id="P13473"/>
+  <dbReference type="OMA" id="CHPQTAQ"/>
+  <dbReference type="OrthoDB" id="6232933at2759"/>
+  <dbReference type="PAN-GO" id="P13473">
+    <property type="GO annotations" value="7 GO annotations based on evolutionary models"/>
+  </dbReference>
+  <dbReference type="PhylomeDB" id="P13473"/>
+  <dbReference type="PathwayCommons" id="P13473"/>
+  <dbReference type="Reactome" id="R-HSA-114608">
+    <property type="pathway name" value="Platelet degranulation"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-6798695">
+    <property type="pathway name" value="Neutrophil degranulation"/>
+  </dbReference>
+  <dbReference type="Reactome" id="R-HSA-9613829">
+    <property type="pathway name" value="Chaperone Mediated Autophagy"/>
+  </dbReference>
+  <dbReference type="SignaLink" id="P13473"/>
+  <dbReference type="SIGNOR" id="P13473"/>
+  <dbReference type="Agora" id="ENSG00000005893"/>
+  <dbReference type="BioGRID-ORCS" id="3920">
+    <property type="hits" value="10 hits in 786 CRISPR screens"/>
+  </dbReference>
+  <dbReference type="ChiTaRS" id="LAMP2">
+    <property type="organism name" value="human"/>
+  </dbReference>
+  <dbReference type="EvolutionaryTrace" id="P13473"/>
+  <dbReference type="GeneWiki" id="LAMP2"/>
+  <dbReference type="GenomeRNAi" id="3920"/>
+  <dbReference type="Pharos" id="P13473">
+    <property type="development level" value="Tbio"/>
+  </dbReference>
+  <dbReference type="PRO" id="PR:P13473"/>
+  <dbReference type="Proteomes" id="UP000005640">
+    <property type="component" value="Chromosome X"/>
+  </dbReference>
+  <dbReference type="RNAct" id="P13473">
+    <property type="molecule type" value="protein"/>
+  </dbReference>
+  <dbReference type="Bgee" id="ENSG00000005893">
+    <property type="expression patterns" value="Expressed in corpus callosum and 208 other cell types or tissues"/>
+  </dbReference>
+  <dbReference type="ExpressionAtlas" id="P13473">
+    <property type="expression patterns" value="baseline and differential"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0044754">
+    <property type="term" value="C:autolysosome"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="MGI"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0000421">
+    <property type="term" value="C:autophagosome membrane"/>
+    <property type="evidence" value="ECO:0000318"/>
+    <property type="project" value="GO_Central"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0035577">
+    <property type="term" value="C:azurophil granule membrane"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="Reactome"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0061742">
+    <property type="term" value="C:chaperone-mediated autophagy translocation complex"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="ParkinsonsUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0070062">
+    <property type="term" value="C:extracellular exosome"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005615">
+    <property type="term" value="C:extracellular space"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0101003">
+    <property type="term" value="C:ficolin-1-rich granule membrane"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="Reactome"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005770">
+    <property type="term" value="C:late endosome"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="MGI"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0031902">
+    <property type="term" value="C:late endosome membrane"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="MGI"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0043202">
+    <property type="term" value="C:lysosomal lumen"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="ParkinsonsUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005765">
+    <property type="term" value="C:lysosomal membrane"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProt"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005764">
+    <property type="term" value="C:lysosome"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0016020">
+    <property type="term" value="C:membrane"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="MGI"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0048471">
+    <property type="term" value="C:perinuclear region of cytoplasm"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="ParkinsonsUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0030670">
+    <property type="term" value="C:phagocytic vesicle membrane"/>
+    <property type="evidence" value="ECO:0000501"/>
+    <property type="project" value="Ensembl"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005886">
+    <property type="term" value="C:plasma membrane"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="HPA"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0031088">
+    <property type="term" value="C:platelet dense granule membrane"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="MGI"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0005802">
+    <property type="term" value="C:trans-Golgi network"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="ParkinsonsUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0019899">
+    <property type="term" value="F:enzyme binding"/>
+    <property type="evidence" value="ECO:0000353"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0008200">
+    <property type="term" value="F:ion channel inhibitor activity"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0019904">
+    <property type="term" value="F:protein domain specific binding"/>
+    <property type="evidence" value="ECO:0000501"/>
+    <property type="project" value="Ensembl"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0030674">
+    <property type="term" value="F:protein-macromolecule adaptor activity"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProt"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0035591">
+    <property type="term" value="F:signaling adaptor activity"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProt"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0097352">
+    <property type="term" value="P:autophagosome maturation"/>
+    <property type="evidence" value="ECO:0000250"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0009267">
+    <property type="term" value="P:cellular response to starvation"/>
+    <property type="evidence" value="ECO:0000250"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0061684">
+    <property type="term" value="P:chaperone-mediated autophagy"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProt"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0007042">
+    <property type="term" value="P:lysosomal lumen acidification"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:1905146">
+    <property type="term" value="P:lysosomal protein catabolic process"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:1900226">
+    <property type="term" value="P:negative regulation of NLRP3 inflammasome complex assembly"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProt"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0031333">
+    <property type="term" value="P:negative regulation of protein-containing complex assembly"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="ParkinsonsUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0160020">
+    <property type="term" value="P:positive regulation of ferroptosis"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProt"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0030163">
+    <property type="term" value="P:protein catabolic process"/>
+    <property type="evidence" value="ECO:0000314"/>
+    <property type="project" value="UniProt"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0017038">
+    <property type="term" value="P:protein import"/>
+    <property type="evidence" value="ECO:0000304"/>
+    <property type="project" value="ParkinsonsUK-UCL"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0050821">
+    <property type="term" value="P:protein stabilization"/>
+    <property type="evidence" value="ECO:0000250"/>
+    <property type="project" value="CAFA"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0006605">
+    <property type="term" value="P:protein targeting"/>
+    <property type="evidence" value="ECO:0000250"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0061740">
+    <property type="term" value="P:protein targeting to lysosome involved in chaperone-mediated autophagy"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="UniProtKB"/>
+  </dbReference>
+  <dbReference type="GO" id="GO:0031647">
+    <property type="term" value="P:regulation of protein stability"/>
+    <property type="evidence" value="ECO:0000315"/>
+    <property type="project" value="ParkinsonsUK-UCL"/>
+  </dbReference>
+  <dbReference type="FunFam" id="2.40.160.110:FF:000004">
+    <property type="entry name" value="Lysosomal associated membrane protein 2"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="FunFam" id="2.40.160.110:FF:000001">
+    <property type="entry name" value="lysosome-associated membrane glycoprotein 2 isoform X2"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="Gene3D" id="2.40.160.110">
+    <property type="match status" value="2"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR048528">
+    <property type="entry name" value="Lamp2-like_luminal"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR048524">
+    <property type="entry name" value="Lamp2-like_TM"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR018134">
+    <property type="entry name" value="LAMP_CS"/>
+  </dbReference>
+  <dbReference type="InterPro" id="IPR002000">
+    <property type="entry name" value="Lysosome-assoc_membr_glycop"/>
+  </dbReference>
+  <dbReference type="PANTHER" id="PTHR11506">
+    <property type="entry name" value="LYSOSOME-ASSOCIATED MEMBRANE GLYCOPROTEIN"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PANTHER" id="PTHR11506:SF6">
+    <property type="entry name" value="LYSOSOME-ASSOCIATED MEMBRANE GLYCOPROTEIN 2"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="Pfam" id="PF01299">
+    <property type="entry name" value="Lamp2-like_luminal"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="Pfam" id="PF21222">
+    <property type="entry name" value="Lamp2_2nd"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PRINTS" id="PR00336">
+    <property type="entry name" value="LYSASSOCTDMP"/>
+  </dbReference>
+  <dbReference type="PROSITE" id="PS00310">
+    <property type="entry name" value="LAMP_1"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PROSITE" id="PS00311">
+    <property type="entry name" value="LAMP_2"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <dbReference type="PROSITE" id="PS51407">
+    <property type="entry name" value="LAMP_3"/>
+    <property type="match status" value="1"/>
+  </dbReference>
+  <proteinExistence type="evidence at protein level"/>
+  <keyword id="KW-0002">3D-structure</keyword>
+  <keyword id="KW-0025">Alternative splicing</keyword>
+  <keyword id="KW-0072">Autophagy</keyword>
+  <keyword id="KW-1003">Cell membrane</keyword>
+  <keyword id="KW-0968">Cytoplasmic vesicle</keyword>
+  <keyword id="KW-0903">Direct protein sequencing</keyword>
+  <keyword id="KW-0225">Disease variant</keyword>
+  <keyword id="KW-1015">Disulfide bond</keyword>
+  <keyword id="KW-0967">Endosome</keyword>
+  <keyword id="KW-0322">Glycogen storage disease</keyword>
+  <keyword id="KW-0325">Glycoprotein</keyword>
+  <keyword id="KW-0458">Lysosome</keyword>
+  <keyword id="KW-0472">Membrane</keyword>
+  <keyword id="KW-1267">Proteomics identification</keyword>
+  <keyword id="KW-1185">Reference proteome</keyword>
+  <keyword id="KW-0732">Signal</keyword>
+  <keyword id="KW-0812">Transmembrane</keyword>
+  <keyword id="KW-1133">Transmembrane helix</keyword>
+  <feature type="signal peptide" evidence="8 23 24">
+    <location>
+      <begin position="1"/>
+      <end position="28"/>
+    </location>
+  </feature>
+  <feature type="chain" id="PRO_0000017110" description="Lysosome-associated membrane glycoprotein 2">
+    <location>
+      <begin position="29"/>
+      <end position="410"/>
+    </location>
+  </feature>
+  <feature type="topological domain" description="Lumenal" evidence="3">
+    <location>
+      <begin position="29"/>
+      <end position="375"/>
+    </location>
+  </feature>
+  <feature type="transmembrane region" description="Helical" evidence="4">
+    <location>
+      <begin position="376"/>
+      <end position="399"/>
+    </location>
+  </feature>
+  <feature type="topological domain" description="Cytoplasmic" evidence="4">
+    <location>
+      <begin position="400"/>
+      <end position="410"/>
+    </location>
+  </feature>
+  <feature type="region of interest" description="First lumenal domain">
+    <location>
+      <begin position="29"/>
+      <end position="192"/>
+    </location>
+  </feature>
+  <feature type="region of interest" description="Hinge">
+    <location>
+      <begin position="193"/>
+      <end position="228"/>
+    </location>
+  </feature>
+  <feature type="region of interest" description="Disordered" evidence="5">
+    <location>
+      <begin position="199"/>
+      <end position="221"/>
+    </location>
+  </feature>
+  <feature type="region of interest" description="Second lumenal domain">
+    <location>
+      <begin position="229"/>
+      <end position="375"/>
+    </location>
+  </feature>
+  <feature type="region of interest" description="Important for binding and subsequent lysosomal degradation of target proteins" evidence="6">
+    <location>
+      <begin position="401"/>
+      <end position="404"/>
+    </location>
+  </feature>
+  <feature type="compositionally biased region" description="Low complexity" evidence="5">
+    <location>
+      <begin position="199"/>
+      <end position="213"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) (polylactosaminoglycan) asparagine" evidence="12">
+    <location>
+      <position position="32"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) (polylactosaminoglycan) asparagine" evidence="12">
+    <location>
+      <position position="38"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="7 12">
+    <location>
+      <position position="49"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="30">
+    <location>
+      <position position="58"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="30">
+    <location>
+      <position position="75"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="7 12 15">
+    <location>
+      <position position="101"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="12 15">
+    <location>
+      <position position="123"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="30">
+    <location>
+      <position position="179"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="O-linked (GalNAc...) serine" evidence="30">
+    <location>
+      <position position="195"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="O-linked (GalNAc...) threonine" evidence="30">
+    <location>
+      <position position="196"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="O-linked (GalNAc...) threonine" evidence="30">
+    <location>
+      <position position="200"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="O-linked (GalNAc...) threonine" evidence="30">
+    <location>
+      <position position="203"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="O-linked (GalNAc...) threonine" evidence="30">
+    <location>
+      <position position="204"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="O-linked (GalNAc...) serine; partial" evidence="30">
+    <location>
+      <position position="207"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="O-linked (GalNAc...) threonine; partial" evidence="30">
+    <location>
+      <position position="209"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="O-linked (GalNAc...) threonine" evidence="30">
+    <location>
+      <position position="210"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="O-linked (GalNAc...) threonine" evidence="30">
+    <location>
+      <position position="211"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="O-linked (GalNAc...) threonine; partial" evidence="30">
+    <location>
+      <position position="213"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="30">
+    <location>
+      <position position="229"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="30">
+    <location>
+      <position position="242"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="12 15">
+    <location>
+      <position position="257"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="30">
+    <location>
+      <position position="275"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="30">
+    <location>
+      <position position="300"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) (polylactosaminoglycan) asparagine" evidence="30">
+    <location>
+      <position position="307"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="30">
+    <location>
+      <position position="317"/>
+    </location>
+  </feature>
+  <feature type="glycosylation site" description="N-linked (GlcNAc...) asparagine" evidence="15">
+    <location>
+      <position position="356"/>
+    </location>
+  </feature>
+  <feature type="disulfide bond" evidence="4">
+    <location>
+      <begin position="41"/>
+      <end position="79"/>
+    </location>
+  </feature>
+  <feature type="disulfide bond" evidence="4">
+    <location>
+      <begin position="153"/>
+      <end position="189"/>
+    </location>
+  </feature>
+  <feature type="disulfide bond" evidence="4">
+    <location>
+      <begin position="232"/>
+      <end position="265"/>
+    </location>
+  </feature>
+  <feature type="disulfide bond" evidence="4">
+    <location>
+      <begin position="331"/>
+      <end position="368"/>
+    </location>
+  </feature>
+  <feature type="splice variant" id="VSP_042519" description="In isoform LAMP-2C." evidence="37">
+    <original>QDCSADDDNFLVPIAVGAALAGVLILVLLAYFIGLKHHHAGYEQF</original>
+    <variation>EECSADSDLNFLIPVAVGVALGFLIIVVFISYMIGRRKSRTGYQSV</variation>
+    <location>
+      <begin position="366"/>
+      <end position="410"/>
+    </location>
+  </feature>
+  <feature type="splice variant" id="VSP_003044" description="In isoform LAMP-2B." evidence="32 34 35">
+    <original>DCSADDDNFLVPIAVGAALAGVLILVLLAYFIGLKHHHAGYEQF</original>
+    <variation>ECSLDDDTILIPIIVGAGLSGLIIVIVIAYVIGRRKSYAGYQTL</variation>
+    <location>
+      <begin position="367"/>
+      <end position="410"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_011992" description="In dbSNP:rs1043878.">
+    <original>P</original>
+    <variation>H</variation>
+    <location>
+      <position position="256"/>
+    </location>
+  </feature>
+  <feature type="sequence variant" id="VAR_026230" description="In DAND; dbSNP:rs104894859." evidence="9 11">
+    <original>W</original>
+    <variation>R</variation>
+    <location>
+      <position position="321"/>
+    </location>
+  </feature>
+  <feature type="mutagenesis site" description="Impairs binding and subsequent lysosomal degradation of target proteins, such as GAPDH." evidence="6">
+    <original>KHHH</original>
+    <variation>AAAA</variation>
+    <location>
+      <begin position="401"/>
+      <end position="404"/>
+    </location>
+  </feature>
+  <feature type="sequence conflict" description="In Ref. 3; no nucleotide entry." evidence="38" ref="3">
+    <original>PVPGSG</original>
+    <variation>RFRSGLR</variation>
+    <location>
+      <begin position="8"/>
+      <end position="13"/>
+    </location>
+  </feature>
+  <feature type="sequence conflict" description="In Ref. 3; no nucleotide entry." evidence="38" ref="3">
+    <original>R</original>
+    <variation>G</variation>
+    <location>
+      <position position="53"/>
+    </location>
+  </feature>
+  <feature type="sequence conflict" description="In Ref. 2; AAB41647." evidence="38" ref="2">
+    <original>D</original>
+    <variation>V</variation>
+    <location>
+      <position position="68"/>
+    </location>
+  </feature>
+  <feature type="sequence conflict" description="In Ref. 2; AAB41647." evidence="38" ref="2">
+    <original>I</original>
+    <variation>N</variation>
+    <location>
+      <position position="111"/>
+    </location>
+  </feature>
+  <feature type="sequence conflict" description="In Ref. 2; AAB41647." evidence="38" ref="2">
+    <original>I</original>
+    <variation>Y</variation>
+    <location>
+      <position position="143"/>
+    </location>
+  </feature>
+  <feature type="sequence conflict" description="In Ref. 2; AAB41647." evidence="38" ref="2">
+    <original>A</original>
+    <variation>P</variation>
+    <location>
+      <position position="220"/>
+    </location>
+  </feature>
+  <feature type="sequence conflict" description="In Ref. 2; AAB41647." evidence="38" ref="2">
+    <original>L</original>
+    <variation>R</variation>
+    <location>
+      <position position="234"/>
+    </location>
+  </feature>
+  <feature type="sequence conflict" description="In Ref. 3; no nucleotide entry." evidence="38" ref="3">
+    <original>GSCRSHT</original>
+    <variation>AAAVSH</variation>
+    <location>
+      <begin position="263"/>
+      <end position="269"/>
+    </location>
+  </feature>
+  <feature type="sequence conflict" description="In Ref. 1; AAA60383." evidence="38" ref="1">
+    <original>DAPLG</original>
+    <variation>MPP</variation>
+    <location>
+      <begin position="322"/>
+      <end position="326"/>
+    </location>
+  </feature>
+  <feature type="strand" evidence="39">
+    <location>
+      <begin position="374"/>
+      <end position="377"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="39">
+    <location>
+      <begin position="380"/>
+      <end position="400"/>
+    </location>
+  </feature>
+  <feature type="helix" evidence="39">
+    <location>
+      <begin position="402"/>
+      <end position="404"/>
+    </location>
+  </feature>
+  <evidence type="ECO:0000250" key="1">
+    <source>
+      <dbReference type="UniProtKB" id="P17046"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000250" key="2">
+    <source>
+      <dbReference type="UniProtKB" id="P17047"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000255" key="3"/>
+  <evidence type="ECO:0000255" key="4">
+    <source>
+      <dbReference type="PROSITE-ProRule" id="PRU00740"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000256" key="5">
+    <source>
+      <dbReference type="SAM" id="MobiDB-lite"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="6">
+    <source>
+      <dbReference type="PubMed" id="11082038"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="7">
+    <source>
+      <dbReference type="PubMed" id="12754519"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="8">
+    <source>
+      <dbReference type="PubMed" id="15340161"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="9">
+    <source>
+      <dbReference type="PubMed" id="15673802"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="10">
+    <source>
+      <dbReference type="PubMed" id="15894275"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="11">
+    <source>
+      <dbReference type="PubMed" id="15907287"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="12">
+    <source>
+      <dbReference type="PubMed" id="16335952"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="13">
+    <source>
+      <dbReference type="PubMed" id="17897319"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="14">
+    <source>
+      <dbReference type="PubMed" id="18644871"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="15">
+    <source>
+      <dbReference type="PubMed" id="19159218"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="16">
+    <source>
+      <dbReference type="PubMed" id="20518820"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="17">
+    <source>
+      <dbReference type="PubMed" id="2243102"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="18">
+    <source>
+      <dbReference type="PubMed" id="22641697"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="19">
+    <source>
+      <dbReference type="PubMed" id="24880125"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="20">
+    <source>
+      <dbReference type="PubMed" id="25342746"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="21">
+    <source>
+      <dbReference type="PubMed" id="26856698"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="22">
+    <source>
+      <dbReference type="PubMed" id="27628032"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="23">
+    <source>
+      <dbReference type="PubMed" id="2912382"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="24">
+    <source>
+      <dbReference type="PubMed" id="3198605"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="25">
+    <source>
+      <dbReference type="PubMed" id="32295904"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="26">
+    <source>
+      <dbReference type="PubMed" id="36481789"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="27">
+    <source>
+      <dbReference type="PubMed" id="36586411"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="28">
+    <source>
+      <dbReference type="PubMed" id="37390818"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="29">
+    <source>
+      <dbReference type="PubMed" id="7488019"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="30">
+    <source>
+      <dbReference type="PubMed" id="8323299"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000269" key="31">
+    <source>
+      <dbReference type="PubMed" id="8662539"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="32">
+    <source>
+      <dbReference type="PubMed" id="15489334"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="33">
+    <source>
+      <dbReference type="PubMed" id="3198605"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="34">
+    <source>
+      <dbReference type="PubMed" id="7488019"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="35">
+    <source>
+      <dbReference type="PubMed" id="8407947"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="36">
+    <source>
+      <dbReference type="PubMed" id="8662539"/>
+    </source>
+  </evidence>
+  <evidence type="ECO:0000303" key="37">
+    <source ref="6"/>
+  </evidence>
+  <evidence type="ECO:0000305" key="38"/>
+  <evidence type="ECO:0007829" key="39">
+    <source>
+      <dbReference type="PDB" id="2MOF"/>
+    </source>
+  </evidence>
+  <sequence length="410" mass="44961" checksum="9E08E3B62D58F454" modified="1996-10-01" version="2" precursor="true">MVCFRLFPVPGSGLVLVCLVLGAVRSYALELNLTDSENATCLYAKWQMNFTVRYETTNKTYKTVTISDHGTVTYNGSICGDDQNGPKIAVQFGPGFSWIANFTKAASTYSIDSVSFSYNTGDNTTFPDAEDKGILTVDELLAIRIPLNDLFRCNSLSTLEKNDVVQHYWDVLVQAFVQNGTVSTNEFLCDKDKTSTVAPTIHTTVPSPTTTPTPKEKPEAGTYSVNNGNDTCLLATMGLQLNITQDKVASVININPNTTHSTGSCRSHTALLRLNSSTIKYLDFVFAVKNENRFYLKEVNISMYLVNGSVFSIANNNLSYWDAPLGSSYMCNKEQTVSVSGAFQINTFDLRVQPFNVTQGKYSTAQDCSADDDNFLVPIAVGAALAGVLILVLLAYFIGLKHHHAGYEQF</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>
