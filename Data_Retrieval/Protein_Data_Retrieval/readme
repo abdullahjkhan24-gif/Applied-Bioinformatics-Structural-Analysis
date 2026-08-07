@@ -1,1 +1,20 @@
+This project demonstrates how to retrieve protein structure data from the Protein Data Bank (PDB) using the RCSB PDB database. Five protein structures were selected, and for each protein, the following files were collected:
 
+Legacy PDB Structure File (.pdb)
+FASTA Sequence File (.fasta)
+Structure Validation Report (.pdf)
+
+A brief summary of each protein, including its biological and structural information, is also provided.
+
+Objectives
+Learn how to navigate the RCSB Protein Data Bank.
+Retrieve experimentally determined protein structures.
+Download associated sequence and validation files.
+Understand the biological importance of different proteins.
+Practice working with structural biology datasets.
+Proteins Included
+Hemoglobin (PDB ID: 1A3N)
+Lysozyme (PDB ID: 1HEL)
+Human Insulin (PDB ID: 4INS)
+Myoglobin (PDB ID: 1MBN)
+Green Fluorescent Protein (GFP) (PDB ID: 1EMA)
