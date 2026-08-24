@@ -1,0 +1,9 @@
+NCBI DOWNLOAD CHECKLIST — INS
+
+Required sequence artifacts for the project folder:
+1. FASTA sequence — present: INS_Human_NM_000207.3.fasta
+2. Plain-text NCBI record/metadata — present: NCBI_INS_record.txt
+3. GenBank-format record — present: INS_Human_CDS_NM_000207.3.gb
+4. NCBI record screenshot — should be captured from the NM_000207.3 NCBI page if the instructor requires a screenshot file.
+
+Reference page: https://www.ncbi.nlm.nih.gov/nuccore/NM_000207.3
