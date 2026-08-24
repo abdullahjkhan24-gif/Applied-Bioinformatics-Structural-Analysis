@@ -1,0 +1,33 @@
+Species	Protein accession	Role	Used in computed MSA/tree	Source/notes
+Homo sapiens	P01308	Human INS reference	YES	UniProt reviewed INS; linked to NCBI NP_000198.1
+Pan troglodytes	P30410	Chimpanzee INS	NO	Known INS homolog accession
+Gorilla gorilla gorilla	Q6YK33	Gorilla INS	NO	UniProt reviewed INS
+Pongo pygmaeus	AAM76641	Orangutan INS	NO	Known INS homolog accession
+Macaca fascicularis	P30406	Crab-eating macaque INS	NO	Known INS homolog accession
+Cercopithecus aethiops	P30407	African green monkey INS	NO	Known INS homolog accession
+Aotus trivirgatus	P10604	Owl monkey INS	NO	Known INS homolog accession
+Saimiri sciureus	INMKSQ	Squirrel monkey INS	NO	Known INS homolog accession
+Equus caballus	P01310	Horse INS	NO	Known INS homolog accession
+Oryctolagus cuniculus	P01311	Rabbit INS	YES	UniProt reviewed INS
+Sus scrofa	P01315	Pig INS	YES	Known/curated INS sequence
+Bos taurus	P01317	Bovine INS	NO	Known INS homolog accession
+Ovis aries	P01318	Sheep INS	YES	Known/curated INS sequence
+Camelus dromedarius	P01320	Camel INS	NO	Known INS homolog accession
+Canis familiaris	P01321	Dog INS	NO	Known INS homolog accession
+Hystrix cristata	P01328	Crested porcupine INS	NO	Known INS homolog accession
+Cricetulus longicaudatus	P01313	Long-tailed hamster INS	NO	Known INS homolog accession
+Rattus norvegicus	P01322	Rat insulin 1	NO	Known INS paralog/homolog
+Rattus norvegicus	P01323	Rat insulin 2	YES	Computed representative
+Acomys cahirinus	P01324	Egyptian spiny mouse INS	NO	Known INS homolog accession
+Mus musculus	P01325	Mouse insulin 1	YES	Computed representative
+Mus musculus	P01326	Mouse insulin 2	NO	Known INS paralog
+Chinchilla brevicaudata	P01327	Chinchilla INS	NO	Known INS homolog accession
+Cavia porcellus	P01329	Guinea pig INS	NO	Known INS homolog accession
+Octodon degus	P17715	Degu INS	NO	Known INS homolog accession
+Didelphis virginiana	P18109	Opossum INS	NO	Known INS homolog accession
+Psammomys obesus	Q62587	Fat sand rat INS	NO	Known INS homolog accession
+Spermophilus tridecemlineatus	Q91XI3	Thirteen-lined ground squirrel INS	NO	Known INS homolog accession
+Danio rerio	O73727	Zebrafish insulin	YES	Computed representative; vertebrate outgroup-like comparison
+Xenopus laevis	XP_041425543	Xenopus insulin	YES	Computed representative; vertebrate comparison
+
+NOTE: This table is a curated homolog/accession panel. It is not a fabricated BLAST result table: E-values, bit scores and query-cover values are intentionally omitted unless directly retrieved from a BLAST run. The computed alignment/tree uses the nine sequences marked YES.
