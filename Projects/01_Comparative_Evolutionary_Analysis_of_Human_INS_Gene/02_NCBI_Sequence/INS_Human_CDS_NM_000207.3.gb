@@ -1,0 +1,32 @@
+LOCUS       INS_HUMAN_CDS             330 bp    mRNA    linear   PRI 24-AUG-2026
+DEFINITION  Homo sapiens insulin (INS), transcript variant 1, coding sequence.
+ACCESSION   NM_000207.3
+VERSION     NM_000207.3
+KEYWORDS    insulin; INS; preproinsulin; CDS.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Vertebrata; Mammalia; Primates.
+REFERENCE   1  (bases 1 to 330)
+  TITLE     Human INS coding sequence used for comparative sequence analysis
+COMMENT     This flatfile records the 330-nt CDS represented by the FASTA file in
+            this repository. It is provided as a project-format GenBank record,
+            not as a verbatim NCBI GenBank export. The NCBI RefSeq record is
+            NM_000207.3; NCBI reports the complete mRNA as 465 bp.
+FEATURES             Location/Qualifiers
+     source          1..330
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /gene="INS"
+     CDS             1..330
+                     /gene="INS"
+                     /product="insulin preproprotein"
+                     /protein_id="NP_000198.1"
+                     /translation="MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN"
+ORIGIN
+        1 atggccctgt ggatgcgcct cctgcccctg ctggcgctgc tggccctctg gggacctgac
+       61 ccagccgcag cctttgtgaa ccaacacctg tgcggctcac acctggtgga agctctctac
+      121 ctagtgtgcg gggaacgagg cttcttctac acacccaaga cccgccggga ggcagaggac
+      181 ctgcaggtgg ggcaggtgga gctgggcggg ggccctggtg caggcagcct gcagcccttg
+      241 gccctggagg ggtccctgca gaagcgtggc attgtggaac aatgctgtac cagcatctgc
+      301 tccctctacc agctggagaa ctactgcaac
+//
