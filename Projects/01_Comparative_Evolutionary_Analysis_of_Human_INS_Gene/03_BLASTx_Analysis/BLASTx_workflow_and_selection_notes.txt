@@ -1,0 +1,21 @@
+BLASTx WORKFLOW AND HOMOLOG SELECTION NOTES
+
+Query:
+Human INS nucleotide coding sequence represented by NM_000207.3.
+
+Instructor workflow:
+NCBI nucleotide sequence -> BLASTx -> identify homologous protein sequences -> select approximately 25–30 homologs using high query coverage, high percentage identity and low E-value -> download selected homologs as FASTA -> include the query sequence in the sequence dump before MEGA alignment.
+
+Repository status:
+- homolog_panel.tsv contains the accession/species panel used for the comparative analysis.
+- The downstream alignment and phylogenetic files are stored in folders 04–06.
+- BLASTx numerical scores are intentionally not invented. If the exact NCBI BLASTx results page is required for submission, the result table and screenshot should be exported from the actual BLASTx run and placed here.
+
+Required deliverables for this folder:
+1. BLASTx results table
+2. BLASTx/top-hit screenshot
+3. Selected homolog multi-FASTA
+
+Current non-fabricated artifacts:
+- homolog_panel.tsv
+- this workflow/selection record
